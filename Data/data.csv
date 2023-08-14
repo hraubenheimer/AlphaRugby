@@ -1,0 +1,1996 @@
+date,team1,team2,neutral,world_cup,rank_diff,score_diff,result
+1987-05-22,New Zealand,Italy,0,1,11,64,1
+1987-05-23,Australia,England,0,1,1,13,1
+1987-05-23,France,Scotland,1,1,3,0,0
+1987-05-25,Ireland,Wales,1,1,2,-7,-1
+1987-05-28,Argentina,Italy,1,1,4,9,1
+1987-06-01,New Zealand,Argentina,0,1,7,31,1
+1987-06-06,New Zealand,Scotland,0,1,8,27,1
+1987-06-07,Australia,Ireland,0,1,2,18,1
+1987-06-08,England,Wales,1,1,3,-13,-1
+1987-06-12,Australia,France,0,1,3,-6,-1
+1987-06-14,New Zealand,Wales,1,1,6,43,1
+1987-06-18,Australia,Wales,1,1,4,-1,-1
+1987-06-20,New Zealand,France,0,1,5,20,1
+1987-07-25,Australia,New Zealand,0,0,-2,-14,-1
+1987-10-31,Argentina,Australia,0,0,-5,0,0
+1987-11-07,Argentina,Australia,0,0,-5,8,1
+1988-01-16,France,England,0,0,-2,1,1
+1988-01-16,Ireland,Scotland,0,0,4,4,1
+1988-02-06,England,Wales,0,0,3,-8,-1
+1988-02-06,Scotland,France,0,0,-3,11,1
+1988-02-20,Wales,Scotland,0,0,2,5,1
+1988-02-20,France,Ireland,0,0,-1,19,1
+1988-03-05,Scotland,England,0,0,-5,-3,-1
+1988-03-05,Ireland,Wales,0,0,2,-3,-1
+1988-03-19,England,Ireland,0,0,1,32,1
+1988-03-19,Wales,France,0,0,-1,-1,-1
+1988-04-23,Ireland,England,0,0,-1,-11,-1
+1988-05-28,New Zealand,Wales,0,0,6,49,1
+1988-05-29,Australia,England,0,0,1,6,1
+1988-06-11,New Zealand,Wales,0,0,6,45,1
+1988-06-12,Australia,England,0,0,1,20,1
+1988-06-18,Argentina,France,0,0,-2,-3,-1
+1988-06-25,Argentina,France,0,0,-2,12,1
+1988-07-03,Australia,New Zealand,0,0,-2,-25,-1
+1988-07-16,Australia,New Zealand,0,0,-2,0,0
+1988-07-30,Australia,New Zealand,0,0,-2,-21,-1
+1988-11-05,England,Australia,0,0,-1,9,1
+1988-11-05,France,Argentina,0,0,2,20,1
+1988-11-11,France,Argentina,0,0,2,10,1
+1988-11-19,Scotland,Australia,0,0,-6,-19,-1
+1988-12-03,Italy,Australia,0,0,-9,-49,-1
+1988-12-31,Ireland,Italy,0,0,7,16,1
+1989-01-21,Ireland,France,0,0,1,-5,-1
+1989-01-21,Scotland,Wales,0,0,-2,16,1
+1989-02-04,Wales,Ireland,0,0,-2,-6,-1
+1989-02-04,England,Scotland,0,0,5,0,0
+1989-02-18,Ireland,England,0,0,-1,-13,-1
+1989-02-18,France,Wales,0,0,1,19,1
+1989-03-04,Scotland,Ireland,0,0,-4,16,1
+1989-03-04,England,France,0,0,2,11,1
+1989-03-18,France,Scotland,0,0,3,16,1
+1989-03-18,Wales,England,0,0,-3,3,1
+1989-06-17,New Zealand,France,0,0,5,8,1
+1989-06-24,Argentina,Italy,0,0,4,5,1
+1989-07-01,New Zealand,France,0,0,5,14,1
+1989-07-15,New Zealand,Argentina,0,0,7,51,1
+1989-07-29,New Zealand,Argentina,0,0,7,37,1
+1989-08-05,New Zealand,Australia,0,0,2,12,1
+1989-11-04,Wales,New Zealand,0,0,-6,-25,-1
+1989-11-04,France,Australia,0,0,-3,-17,-1
+1989-11-11,France,Australia,0,0,-3,6,1
+1989-11-18,Ireland,New Zealand,0,0,-4,-17,-1
+1990-01-20,England,Ireland,0,0,1,23,1
+1990-01-20,Wales,France,0,0,-1,-10,-1
+1990-02-03,France,England,0,0,-2,-19,-1
+1990-02-03,Ireland,Scotland,0,0,4,-3,-1
+1990-02-17,Scotland,France,0,0,-3,21,1
+1990-02-17,England,Wales,0,0,3,28,1
+1990-03-03,France,Ireland,0,0,-1,19,1
+1990-03-03,Wales,Scotland,0,0,2,-4,-1
+1990-03-17,Scotland,England,0,0,-5,6,1
+1990-03-24,Ireland,Wales,0,0,2,6,1
+1990-06-09,Australia,France,0,0,3,12,1
+1990-06-16,New Zealand,Scotland,0,0,8,15,1
+1990-06-23,New Zealand,Scotland,0,0,8,3,1
+1990-06-24,Australia,France,0,0,3,17,1
+1990-06-30,Australia,France,0,0,3,-9,-1
+1990-07-21,New Zealand,Australia,0,0,2,15,1
+1990-07-28,Argentina,England,0,0,-4,-13,-1
+1990-08-04,Argentina,England,0,0,-4,2,1
+1990-08-04,New Zealand,Australia,0,0,2,10,1
+1990-08-18,New Zealand,Australia,0,0,2,-12,-1
+1990-10-27,Ireland,Argentina,0,0,3,2,1
+1990-11-03,France,New Zealand,0,0,-5,-21,-1
+1990-11-03,England,Argentina,0,0,4,51,1
+1990-11-10,Scotland,Argentina,0,0,-1,46,1
+1990-11-10,France,New Zealand,0,0,-5,-18,-1
+1991-01-19,France,Scotland,0,0,3,6,1
+1991-01-19,Wales,England,0,0,-3,-19,-1
+1991-02-02,Scotland,Wales,0,0,-2,20,1
+1991-02-02,Ireland,France,0,0,1,-8,-1
+1991-02-16,England,Scotland,0,0,5,9,1
+1991-02-16,Wales,Ireland,0,0,-2,0,0
+1991-03-02,Ireland,England,0,0,-1,-9,-1
+1991-03-02,France,Wales,0,0,1,33,1
+1991-03-16,Scotland,Ireland,0,0,-4,3,1
+1991-03-16,England,France,0,0,2,2,1
+1991-07-06,Argentina,New Zealand,0,0,-7,-14,-1
+1991-07-13,Argentina,New Zealand,0,0,-7,-30,-1
+1991-07-22,Australia,Wales,0,0,4,57,1
+1991-07-27,Australia,England,0,0,1,25,1
+1991-08-10,Australia,New Zealand,0,0,-2,9,1
+1991-08-24,New Zealand,Australia,0,0,2,3,1
+1991-09-04,Wales,France,0,0,-1,-13,-1
+1991-10-03,England,New Zealand,0,1,-3,-6,-1
+1991-10-04,Scotland,Ireland,0,1,-4,9,1
+1991-10-04,Australia,Argentina,1,1,5,13,1
+1991-10-08,England,Italy,0,1,8,30,1
+1991-10-09,Wales,Argentina,0,1,1,9,1
+1991-10-12,Wales,Australia,0,1,-4,-35,-1
+1991-10-13,New Zealand,Italy,1,1,11,10,1
+1991-10-19,France,England,0,1,-2,-9,-1
+1991-10-20,Ireland,Australia,0,1,-2,-1,-1
+1991-10-26,Scotland,England,0,1,-5,-3,-1
+1991-10-27,New Zealand,Australia,1,1,2,-10,-1
+1991-10-30,New Zealand,Scotland,1,1,8,7,1
+1991-11-02,England,Australia,0,1,-1,-6,-1
+1992-01-18,Ireland,Wales,0,0,2,-1,-1
+1992-01-18,Scotland,England,0,0,-5,-18,-1
+1992-02-01,Wales,France,0,0,-1,-3,-1
+1992-02-01,England,Ireland,0,0,1,29,1
+1992-02-15,France,England,0,0,-2,-18,-1
+1992-02-15,Ireland,Scotland,0,0,4,-8,-1
+1992-03-07,Scotland,France,0,0,-3,4,1
+1992-03-07,England,Wales,0,0,3,24,1
+1992-03-21,Wales,Scotland,0,0,2,3,1
+1992-03-21,France,Ireland,0,0,-1,32,1
+1992-05-30,New Zealand,Ireland,0,0,4,3,1
+1992-06-06,New Zealand,Ireland,0,0,4,53,1
+1992-06-13,Australia,Scotland,0,0,6,15,1
+1992-06-21,Australia,Scotland,0,0,6,24,1
+1992-07-04,Australia,New Zealand,0,0,-2,1,1
+1992-07-04,Argentina,France,0,0,-2,-15,-1
+1992-07-11,Argentina,France,0,0,-2,-24,-1
+1992-07-19,Australia,New Zealand,0,0,-2,2,1
+1992-07-25,Australia,New Zealand,0,0,-2,-3,-1
+1992-08-15,South Africa,New Zealand,0,0,-1,-3,-1
+1992-08-29,South Africa,Australia,0,0,1,-23,-1
+1992-10-17,France,South Africa,0,0,-4,-5,-1
+1992-10-24,France,South Africa,0,0,-4,13,1
+1992-10-31,Ireland,Australia,0,0,-2,-25,-1
+1992-11-14,England,South Africa,0,0,-2,17,1
+1992-11-14,France,Argentina,0,0,2,-4,-1
+1992-11-21,Wales,Australia,0,0,-4,-17,-1
+1993-01-16,Scotland,Ireland,0,0,-4,12,1
+1993-01-16,England,France,0,0,2,1,1
+1993-02-06,Wales,England,0,0,-3,1,1
+1993-02-06,France,Scotland,0,0,3,8,1
+1993-02-20,Ireland,France,0,0,1,-15,-1
+1993-02-20,Scotland,Wales,0,0,-2,20,1
+1993-03-06,Wales,Ireland,0,0,-2,-5,-1
+1993-03-06,England,Scotland,0,0,5,14,1
+1993-03-20,Ireland,England,0,0,-1,14,1
+1993-03-20,France,Wales,0,0,1,16,1
+1993-06-26,South Africa,France,0,0,4,0,0
+1993-07-03,South Africa,France,0,0,4,-1,-1
+1993-07-17,New Zealand,Australia,0,0,2,15,1
+1993-07-31,Australia,South Africa,0,0,-1,-7,-1
+1993-08-14,Australia,South Africa,0,0,-1,8,1
+1993-08-21,Australia,South Africa,0,0,-1,7,1
+1993-10-30,France,Australia,0,0,-3,3,1
+1993-11-06,France,Australia,0,0,-3,-21,-1
+1993-11-06,Argentina,South Africa,0,0,-6,-3,-1
+1993-11-13,Argentina,South Africa,0,0,-6,-29,-1
+1993-11-20,Scotland,New Zealand,0,0,-8,-36,-1
+1993-11-27,England,New Zealand,0,0,-3,6,1
+1994-01-15,France,Ireland,0,0,-1,20,1
+1994-01-15,Wales,Scotland,0,0,2,23,1
+1994-02-05,Scotland,England,0,0,-5,-1,-1
+1994-02-05,Ireland,Wales,0,0,2,-2,-1
+1994-02-19,England,Ireland,0,0,1,-1,-1
+1994-02-19,Wales,France,0,0,-1,9,1
+1994-03-05,France,England,0,0,-2,-4,-1
+1994-03-05,Ireland,Scotland,0,0,4,0,0
+1994-03-19,Scotland,France,0,0,-3,-8,-1
+1994-03-19,England,Wales,0,0,3,7,1
+1994-06-04,Argentina,Scotland,0,0,1,1,1
+1994-06-04,South Africa,England,0,0,2,-17,-1
+1994-06-05,Australia,Ireland,0,0,2,20,1
+1994-06-11,South Africa,England,0,0,2,18,1
+1994-06-11,Argentina,Scotland,0,0,1,2,1
+1994-06-11,Australia,Ireland,0,0,2,14,1
+1994-06-18,Australia,Italy,0,0,9,3,1
+1994-06-25,Australia,Italy,0,0,9,13,1
+1994-06-26,New Zealand,France,0,0,5,-14,-1
+1994-07-03,New Zealand,France,0,0,5,-3,-1
+1994-07-09,New Zealand,South Africa,0,0,1,8,1
+1994-07-23,New Zealand,South Africa,0,0,1,4,1
+1994-08-06,New Zealand,South Africa,0,0,1,0,0
+1994-08-17,Australia,New Zealand,0,0,-2,4,1
+1994-10-08,South Africa,Argentina,0,0,6,20,1
+1994-10-12,Wales,Italy,0,0,5,10,1
+1994-10-15,South Africa,Argentina,0,0,6,20,1
+1994-11-19,Scotland,South Africa,0,0,-7,-24,-1
+1994-11-26,Wales,South Africa,0,0,-5,-8,-1
+1995-01-21,France,Wales,0,0,1,12,1
+1995-01-21,Ireland,England,0,0,-1,-12,-1
+1995-02-04,England,France,0,0,2,21,1
+1995-02-04,Scotland,Ireland,0,0,-4,13,1
+1995-02-18,Wales,England,0,0,-3,-14,-1
+1995-02-18,France,Scotland,0,0,3,-2,-1
+1995-03-04,Ireland,France,0,0,1,-18,-1
+1995-03-04,Scotland,Wales,0,0,-2,13,1
+1995-03-18,Wales,Ireland,0,0,-2,-4,-1
+1995-03-18,England,Scotland,0,0,5,12,1
+1995-04-30,Australia,Argentina,0,0,5,46,1
+1995-05-06,Italy,Ireland,0,0,-7,10,1
+1995-05-06,Australia,Argentina,0,0,5,17,1
+1995-05-25,South Africa,Australia,0,1,1,9,1
+1995-05-27,Ireland,New Zealand,1,1,-4,-24,-1
+1995-05-27,England,Argentina,1,1,4,6,1
+1995-05-31,New Zealand,Wales,1,1,6,25,1
+1995-05-31,England,Italy,1,1,8,7,1
+1995-06-03,France,Scotland,1,1,3,3,1
+1995-06-04,Ireland,Wales,1,1,2,1,1
+1995-06-04,Argentina,Italy,1,1,4,-6,-1
+1995-06-10,France,Ireland,1,1,-1,24,1
+1995-06-11,New Zealand,Scotland,1,1,8,18,1
+1995-06-11,England,Australia,1,1,-1,3,1
+1995-06-17,South Africa,France,0,1,4,4,1
+1995-06-18,New Zealand,England,1,1,3,16,1
+1995-06-22,England,France,1,1,2,-10,-1
+1995-06-24,South Africa,New Zealand,0,1,-1,3,1
+1995-07-22,New Zealand,Australia,0,0,2,12,1
+1995-07-29,Australia,New Zealand,0,0,-2,-11,-1
+1995-09-02,South Africa,Wales,0,0,5,29,1
+1995-10-14,France,Italy,1,0,6,12,1
+1995-10-17,Argentina,Italy,0,0,4,20,1
+1995-10-21,Argentina,France,0,0,-2,-35,-1
+1995-10-28,Italy,New Zealand,0,0,-11,-64,-1
+1995-11-11,France,New Zealand,0,0,-5,7,1
+1995-11-12,Italy,South Africa,0,0,-10,-19,-1
+1995-11-18,France,New Zealand,0,0,-5,-25,-1
+1995-11-18,England,South Africa,0,0,-2,-10,-1
+1996-01-16,Wales,Italy,0,0,5,5,1
+1996-01-20,Ireland,Scotland,0,0,4,-6,-1
+1996-01-20,France,England,0,0,-2,3,1
+1996-02-03,Scotland,France,0,0,-3,5,1
+1996-02-03,England,Wales,0,0,3,6,1
+1996-02-17,Wales,Scotland,0,0,2,-2,-1
+1996-02-17,France,Ireland,0,0,-1,35,1
+1996-03-02,Scotland,England,0,0,-5,-9,-1
+1996-03-02,Ireland,Wales,0,0,2,13,1
+1996-03-16,Wales,France,0,0,-1,1,1
+1996-03-16,England,Ireland,0,0,1,13,1
+1996-06-09,Australia,Wales,0,0,4,31,1
+1996-06-15,New Zealand,Scotland,0,0,8,31,1
+1996-06-22,Argentina,France,0,0,-2,-7,-1
+1996-06-22,Australia,Wales,0,0,4,39,1
+1996-06-22,New Zealand,Scotland,0,0,8,24,1
+1996-06-29,Argentina,France,0,0,-2,-19,-1
+1996-07-06,New Zealand,Australia,0,0,2,37,1
+1996-07-13,Australia,South Africa,0,0,-1,5,1
+1996-07-20,New Zealand,South Africa,0,0,1,4,1
+1996-07-27,Australia,New Zealand,0,0,-2,-7,-1
+1996-08-03,South Africa,Australia,0,0,1,6,1
+1996-08-10,South Africa,New Zealand,0,0,-1,-11,-1
+1996-08-17,South Africa,New Zealand,0,0,-1,-4,-1
+1996-08-24,South Africa,New Zealand,0,0,-1,-7,-1
+1996-08-31,South Africa,New Zealand,0,0,-1,10,1
+1996-09-25,Wales,France,0,0,-1,-7,-1
+1996-10-05,Italy,Wales,0,0,-5,-9,-1
+1996-10-23,Italy,Australia,0,0,-9,-22,-1
+1996-11-09,Scotland,Australia,0,0,-6,-10,-1
+1996-11-09,Argentina,South Africa,0,0,-6,-31,-1
+1996-11-16,Argentina,South Africa,0,0,-6,-23,-1
+1996-11-23,Ireland,Australia,0,0,-2,-10,-1
+1996-11-23,England,Italy,0,0,8,33,1
+1996-11-30,France,South Africa,0,0,-4,-10,-1
+1996-12-01,Wales,Australia,0,0,-4,-9,-1
+1996-12-07,France,South Africa,0,0,-4,-1,-1
+1996-12-14,England,Argentina,0,0,4,2,1
+1996-12-14,Scotland,Italy,0,0,3,7,1
+1996-12-15,Wales,South Africa,0,0,-5,-17,-1
+1997-01-04,Ireland,Italy,0,0,7,-8,-1
+1997-01-18,Scotland,Wales,0,0,-2,-15,-1
+1997-01-18,Ireland,France,0,0,1,-17,-1
+1997-02-01,England,Scotland,0,0,5,28,1
+1997-02-01,Wales,Ireland,0,0,-2,-1,-1
+1997-02-15,France,Wales,0,0,1,5,1
+1997-02-15,Ireland,England,0,0,-1,-40,-1
+1997-03-01,Scotland,Ireland,0,0,-4,28,1
+1997-03-01,England,France,0,0,2,-3,-1
+1997-03-15,Wales,England,0,0,-3,-21,-1
+1997-03-15,France,Scotland,0,0,3,27,1
+1997-03-22,France,Italy,0,0,6,-8,-1
+1997-05-31,Argentina,England,0,0,-4,-26,-1
+1997-06-07,Argentina,England,0,0,-4,20,1
+1997-06-21,New Zealand,Argentina,0,0,7,85,1
+1997-06-21,Australia,France,0,0,3,14,1
+1997-06-28,Australia,France,0,0,3,7,1
+1997-06-28,New Zealand,Argentina,0,0,7,52,1
+1997-07-05,New Zealand,Australia,0,0,2,17,1
+1997-07-12,Australia,England,0,0,1,19,1
+1997-07-19,South Africa,New Zealand,0,0,-1,-3,-1
+1997-07-26,Australia,New Zealand,0,0,-2,-15,-1
+1997-08-02,Australia,South Africa,0,0,-1,12,1
+1997-08-09,New Zealand,South Africa,0,0,1,20,1
+1997-08-16,New Zealand,Australia,0,0,2,12,1
+1997-08-23,South Africa,Australia,0,0,1,39,1
+1997-10-18,France,Italy,0,0,6,11,1
+1997-10-22,Argentina,Italy,1,0,4,0,0
+1997-10-26,France,Argentina,0,0,2,5,1
+1997-11-01,Argentina,Australia,0,0,-5,-8,-1
+1997-11-08,Argentina,Australia,0,0,-5,2,1
+1997-11-08,Italy,South Africa,0,0,-10,-31,-1
+1997-11-15,France,South Africa,0,0,-4,-4,-1
+1997-11-15,England,Australia,0,0,-1,0,0
+1997-11-15,Ireland,New Zealand,0,0,-4,-48,-1
+1997-11-22,France,South Africa,0,0,-4,-42,-1
+1997-11-22,England,New Zealand,0,0,-3,-17,-1
+1997-11-22,Scotland,Australia,0,0,-6,-29,-1
+1997-11-29,Wales,New Zealand,1,0,-6,-35,-1
+1997-11-29,England,South Africa,0,0,-2,-18,-1
+1997-12-06,England,New Zealand,0,0,-3,0,0
+1997-12-06,Scotland,South Africa,0,0,-7,-58,-1
+1997-12-20,Italy,Ireland,0,0,-7,15,1
+1998-01-24,Italy,Scotland,0,0,-3,4,1
+1998-02-07,Ireland,Scotland,0,0,4,-1,-1
+1998-02-07,France,England,0,0,-2,7,1
+1998-02-07,Wales,Italy,0,0,5,3,1
+1998-02-21,Scotland,France,0,0,-3,-35,-1
+1998-02-21,England,Wales,0,0,3,34,1
+1998-03-07,France,Ireland,0,0,-1,2,1
+1998-03-07,Wales,Scotland,1,0,2,6,1
+1998-03-21,Ireland,Wales,0,0,2,-9,-1
+1998-03-22,Scotland,England,0,0,-5,-14,-1
+1998-04-04,England,Ireland,0,0,1,18,1
+1998-04-05,Wales,France,1,0,-1,-51,-1
+1998-06-06,Australia,England,0,0,1,76,1
+1998-06-13,South Africa,Ireland,0,0,3,24,1
+1998-06-13,Argentina,France,0,0,-2,-17,-1
+1998-06-13,Australia,Scotland,0,0,6,42,1
+1998-06-20,New Zealand,England,0,0,3,42,1
+1998-06-20,Argentina,France,0,0,-2,-25,-1
+1998-06-20,Australia,Scotland,0,0,6,22,1
+1998-06-20,South Africa,Ireland,0,0,3,33,1
+1998-06-27,South Africa,Wales,0,0,5,83,1
+1998-06-27,New Zealand,England,0,0,3,30,1
+1998-07-04,South Africa,England,0,0,2,18,1
+1998-07-11,Australia,New Zealand,0,0,-2,8,1
+1998-07-18,Australia,South Africa,0,0,-1,-1,-1
+1998-07-25,New Zealand,South Africa,0,0,1,-10,-1
+1998-08-01,New Zealand,Australia,0,0,2,-4,-1
+1998-08-15,South Africa,New Zealand,0,0,-1,1,1
+1998-08-22,South Africa,Australia,0,0,1,14,1
+1998-08-29,Australia,New Zealand,0,0,-2,5,1
+1998-11-07,Italy,Argentina,0,0,-4,4,1
+1998-11-14,Wales,South Africa,1,0,-5,-8,-1
+1998-11-14,France,Argentina,0,0,2,20,1
+1998-11-21,Scotland,South Africa,0,0,-7,-25,-1
+1998-11-21,France,Australia,0,0,-3,-11,-1
+1998-11-21,Wales,Argentina,0,0,1,13,1
+1998-11-22,England,Italy,0,0,8,8,1
+1998-11-28,Ireland,South Africa,0,0,-3,-14,-1
+1998-11-28,England,Australia,0,0,-1,-1,-1
+1998-12-05,England,South Africa,0,0,-2,6,1
+1999-02-06,Scotland,Wales,0,0,-2,13,1
+1999-02-06,Ireland,France,0,0,1,-1,-1
+1999-02-20,Wales,Ireland,1,0,-2,-6,-1
+1999-02-20,England,Scotland,0,0,5,3,1
+1999-03-06,Scotland,Italy,0,0,3,18,1
+1999-03-06,France,Wales,0,0,1,-1,-1
+1999-03-06,Ireland,England,0,0,-1,-12,-1
+1999-03-20,England,France,0,0,2,11,1
+1999-03-20,Italy,Wales,0,0,-5,-39,-1
+1999-03-20,Scotland,Ireland,0,0,-4,17,1
+1999-04-10,Ireland,Italy,0,0,7,9,1
+1999-04-10,France,Scotland,0,0,3,-14,-1
+1999-04-11,England,Wales,0,0,3,1,1
+1999-06-05,Argentina,Wales,0,0,-1,-10,-1
+1999-06-12,Argentina,Wales,0,0,-1,-7,-1
+1999-06-12,South Africa,Italy,0,0,10,71,1
+1999-06-12,Australia,Ireland,0,0,2,36,1
+1999-06-19,South Africa,Italy,0,0,10,101,1
+1999-06-19,Australia,Ireland,0,0,2,6,1
+1999-06-26,Wales,South Africa,0,0,-5,10,1
+1999-06-26,Australia,England,0,0,1,7,1
+1999-06-26,New Zealand,France,0,0,5,47,1
+1999-07-10,New Zealand,South Africa,0,0,1,28,1
+1999-07-17,Australia,South Africa,0,0,-1,26,1
+1999-07-24,New Zealand,Australia,0,0,2,19,1
+1999-08-07,South Africa,New Zealand,0,0,-1,-16,-1
+1999-08-14,South Africa,Australia,0,0,1,1,1
+1999-08-21,Scotland,Argentina,0,0,-1,-9,-1
+1999-08-28,Wales,France,0,0,-1,11,1
+1999-08-28,Australia,New Zealand,0,0,-2,21,1
+1999-08-28,Ireland,Argentina,0,0,3,8,1
+1999-10-01,Wales,Argentina,0,1,1,5,1
+1999-10-02,England,Italy,0,1,8,60,1
+1999-10-03,Scotland,South Africa,0,1,-7,-17,-1
+1999-10-09,England,New Zealand,0,1,-3,-14,-1
+1999-10-10,Ireland,Australia,0,1,-2,-20,-1
+1999-10-14,New Zealand,Italy,1,1,11,98,1
+1999-10-20,Argentina,Ireland,1,1,-3,4,1
+1999-10-23,Wales,Australia,0,1,-4,-15,-1
+1999-10-24,England,South Africa,1,1,-2,-23,-1
+1999-10-24,Scotland,New Zealand,0,1,-8,-12,-1
+1999-10-24,Argentina,France,1,1,-2,-21,-1
+1999-10-30,Australia,South Africa,1,1,-1,6,1
+1999-10-31,New Zealand,France,1,1,5,-12,-1
+1999-11-04,South Africa,New Zealand,1,1,-1,4,1
+1999-11-06,Australia,France,1,1,3,23,1
+2000-02-05,England,Ireland,0,0,1,32,1
+2000-02-05,Wales,France,0,0,-1,-33,-1
+2000-02-05,Italy,Scotland,0,0,-3,14,1
+2000-02-19,Ireland,Scotland,0,0,4,22,1
+2000-02-19,France,England,0,0,-2,-6,-1
+2000-02-19,Wales,Italy,0,0,5,31,1
+2000-03-04,England,Wales,0,0,3,34,1
+2000-03-04,Ireland,Italy,0,0,7,47,1
+2000-03-04,Scotland,France,0,0,-3,-12,-1
+2000-03-18,Wales,Scotland,0,0,2,8,1
+2000-03-18,Italy,England,0,0,-8,-47,-1
+2000-03-19,France,Ireland,0,0,-1,-2,-1
+2000-04-01,France,Italy,0,0,6,11,1
+2000-04-01,Ireland,Wales,0,0,2,-4,-1
+2000-04-02,Scotland,England,0,0,-5,6,1
+2000-06-03,Argentina,Ireland,0,0,-3,11,1
+2000-06-17,South Africa,England,0,0,2,5,1
+2000-06-17,Australia,Argentina,0,0,5,47,1
+2000-06-24,New Zealand,Scotland,0,0,8,49,1
+2000-06-24,South Africa,England,0,0,2,-5,-1
+2000-06-24,Australia,Argentina,0,0,5,7,1
+2000-07-01,New Zealand,Scotland,0,0,8,34,1
+2000-07-08,Australia,South Africa,0,0,-1,21,1
+2000-07-15,Australia,New Zealand,0,0,-2,-4,-1
+2000-07-22,New Zealand,South Africa,0,0,1,13,1
+2000-07-29,Australia,South Africa,0,0,-1,20,1
+2000-08-05,New Zealand,Australia,0,0,2,-1,-1
+2000-08-19,South Africa,New Zealand,0,0,-1,6,1
+2000-08-26,South Africa,Australia,0,0,1,-1,-1
+2000-11-04,France,Australia,0,0,-3,-5,-1
+2000-11-11,Scotland,Australia,0,0,-6,-21,-1
+2000-11-11,France,New Zealand,0,0,-5,-13,-1
+2000-11-12,Argentina,South Africa,0,0,-6,-4,-1
+2000-11-18,England,Australia,0,0,-1,3,1
+2000-11-18,France,New Zealand,0,0,-5,9,1
+2000-11-19,Ireland,South Africa,0,0,-3,-10,-1
+2000-11-25,England,Argentina,0,0,4,19,1
+2000-11-25,Italy,New Zealand,0,0,-11,-37,-1
+2000-11-26,Wales,South Africa,0,0,-5,-10,-1
+2000-12-02,England,South Africa,0,0,-2,8,1
+2001-02-03,Italy,Ireland,0,0,-7,-19,-1
+2001-02-03,Wales,England,0,0,-3,-29,-1
+2001-02-04,France,Scotland,0,0,3,10,1
+2001-02-17,England,Italy,0,0,8,57,1
+2001-02-17,Ireland,France,0,0,1,7,1
+2001-02-17,Scotland,Wales,0,0,-2,0,0
+2001-03-03,Italy,France,0,0,-6,-11,-1
+2001-03-03,England,Scotland,0,0,5,40,1
+2001-03-17,France,Wales,0,0,1,-8,-1
+2001-03-17,Scotland,Italy,0,0,3,4,1
+2001-04-07,England,France,0,0,2,29,1
+2001-04-08,Italy,Wales,0,0,-5,-10,-1
+2001-06-16,South Africa,France,0,0,4,-9,-1
+2001-06-23,South Africa,France,0,0,4,5,1
+2001-06-23,New Zealand,Argentina,0,0,7,48,1
+2001-06-30,South Africa,Italy,0,0,10,46,1
+2001-06-30,New Zealand,France,0,0,5,25,1
+2001-07-14,Argentina,Italy,0,0,4,21,1
+2001-07-21,South Africa,New Zealand,0,0,-1,-9,-1
+2001-07-28,South Africa,Australia,0,0,1,5,1
+2001-08-11,New Zealand,Australia,0,0,2,-8,-1
+2001-08-18,Australia,South Africa,0,0,-1,0,0
+2001-08-25,New Zealand,South Africa,0,0,1,11,1
+2001-09-01,Australia,New Zealand,0,0,-2,3,1
+2001-09-22,Scotland,Ireland,0,0,-4,22,1
+2001-10-13,Wales,Ireland,0,0,-2,-30,-1
+2001-10-20,Ireland,England,0,0,-1,6,1
+2001-11-10,Wales,Argentina,0,0,1,-14,-1
+2001-11-10,England,Australia,0,0,-1,6,1
+2001-11-10,France,South Africa,0,0,-4,10,1
+2001-11-17,Italy,South Africa,0,0,-10,-28,-1
+2001-11-17,Ireland,New Zealand,0,0,-4,-11,-1
+2001-11-17,France,Australia,0,0,-3,1,1
+2001-11-18,Scotland,Argentina,0,0,-1,-9,-1
+2001-11-24,Scotland,New Zealand,0,0,-8,-31,-1
+2001-11-24,England,South Africa,0,0,-2,20,1
+2001-11-25,Wales,Australia,0,0,-4,-8,-1
+2001-12-01,Argentina,New Zealand,0,0,-7,-4,-1
+2002-02-02,Scotland,England,0,0,-5,-26,-1
+2002-02-02,France,Italy,0,0,6,21,1
+2002-02-03,Ireland,Wales,0,0,2,44,1
+2002-02-16,Wales,France,0,0,-1,-4,-1
+2002-02-16,Italy,Scotland,0,0,-3,-17,-1
+2002-02-16,England,Ireland,0,0,1,34,1
+2002-03-02,Ireland,Scotland,0,0,4,21,1
+2002-03-02,Wales,Italy,0,0,5,24,1
+2002-03-02,France,England,0,0,-2,5,1
+2002-03-22,Scotland,France,0,0,-3,-12,-1
+2002-03-23,Ireland,Italy,0,0,7,15,1
+2002-03-23,England,Wales,0,0,3,40,1
+2002-04-06,Wales,Scotland,0,0,2,-5,-1
+2002-04-06,France,Ireland,0,0,-1,39,1
+2002-04-07,Italy,England,0,0,-8,-36,-1
+2002-06-08,South Africa,Wales,0,0,5,15,1
+2002-06-08,New Zealand,Italy,0,0,11,54,1
+2002-06-15,South Africa,Wales,0,0,5,11,1
+2002-06-15,Argentina,France,0,0,-2,1,1
+2002-06-15,New Zealand,Ireland,0,0,4,9,1
+2002-06-22,Argentina,England,0,0,-4,-8,-1
+2002-06-22,New Zealand,Ireland,0,0,4,32,1
+2002-06-22,Australia,France,0,0,3,12,1
+2002-06-29,Australia,France,0,0,3,6,1
+2002-06-29,South Africa,Argentina,0,0,6,20,1
+2002-07-13,New Zealand,Australia,0,0,2,6,1
+2002-07-20,New Zealand,South Africa,0,0,1,21,1
+2002-07-27,Australia,South Africa,0,0,-1,11,1
+2002-08-03,Australia,New Zealand,0,0,-2,2,1
+2002-08-10,South Africa,New Zealand,0,0,-1,-7,-1
+2002-08-17,South Africa,Australia,0,0,1,2,1
+2002-11-02,Argentina,Australia,0,0,-5,-11,-1
+2002-11-09,England,New Zealand,0,0,-3,3,1
+2002-11-09,Ireland,Australia,0,0,-2,9,1
+2002-11-09,France,South Africa,0,0,-4,20,1
+2002-11-16,Scotland,South Africa,0,0,-7,15,1
+2002-11-16,England,Australia,0,0,-1,1,1
+2002-11-16,France,New Zealand,0,0,-5,0,0
+2002-11-16,Italy,Argentina,0,0,-4,-32,-1
+2002-11-23,Wales,New Zealand,0,0,-6,-26,-1
+2002-11-23,Italy,Australia,0,0,-9,-31,-1
+2002-11-23,England,South Africa,0,0,-2,50,1
+2002-11-23,Ireland,Argentina,0,0,3,9,1
+2003-02-15,England,France,0,0,2,8,1
+2003-02-15,Italy,Wales,0,0,-5,8,1
+2003-02-16,Scotland,Ireland,0,0,-4,-30,-1
+2003-02-22,Italy,Ireland,0,0,-7,-24,-1
+2003-02-22,Wales,England,0,0,-3,-17,-1
+2003-02-23,France,Scotland,0,0,3,35,1
+2003-03-08,Scotland,Wales,0,0,-2,8,1
+2003-03-08,Ireland,France,0,0,1,3,1
+2003-03-09,England,Italy,0,0,8,35,1
+2003-03-22,England,Scotland,0,0,5,31,1
+2003-03-22,Wales,Ireland,0,0,-2,-1,-1
+2003-03-23,Italy,France,0,0,-6,-26,-1
+2003-03-29,Scotland,Italy,0,0,3,8,1
+2003-03-29,France,Wales,0,0,1,28,1
+2003-03-30,Ireland,England,0,0,-1,-36,-1
+2003-06-07,Australia,Ireland,0,0,2,29,1
+2003-06-07,South Africa,Scotland,0,0,7,4,1
+2003-06-14,South Africa,Scotland,0,0,7,9,1
+2003-06-14,Argentina,France,0,0,-2,4,1
+2003-06-14,New Zealand,England,0,0,3,-2,-1
+2003-06-14,Australia,Wales,0,0,4,20,1
+2003-06-20,Argentina,France,0,0,-2,1,1
+2003-06-21,Australia,England,0,0,1,-11,-1
+2003-06-21,New Zealand,Wales,0,0,6,52,1
+2003-06-28,New Zealand,France,0,0,5,8,1
+2003-06-28,South Africa,Argentina,0,0,6,1,1
+2003-07-12,South Africa,Australia,0,0,1,4,1
+2003-07-19,South Africa,New Zealand,0,0,-1,-36,-1
+2003-07-26,Australia,New Zealand,0,0,-2,-29,-1
+2003-08-02,Australia,South Africa,0,0,-1,20,1
+2003-08-09,New Zealand,South Africa,0,0,1,8,1
+2003-08-16,New Zealand,Australia,0,0,2,4,1
+2003-08-16,Ireland,Wales,0,0,2,23,1
+2003-08-23,Wales,England,0,0,-3,-34,-1
+2003-08-23,Scotland,Italy,0,0,3,32,1
+2003-08-30,France,England,0,0,-2,1,1
+2003-08-30,Ireland,Italy,0,0,7,55,1
+2003-08-30,Wales,Scotland,0,0,2,14,1
+2003-09-06,Scotland,Ireland,0,0,-4,-19,-1
+2003-09-06,England,France,0,0,2,31,1
+2003-10-10,Australia,Argentina,0,1,3,16,1
+2003-10-11,New Zealand,Italy,1,1,11,63,1
+2003-10-18,England,South Africa,1,1,5,19,1
+2003-10-25,France,Scotland,1,1,5,42,1
+2003-10-25,Italy,Wales,1,1,-4,-12,-1
+2003-10-26,Ireland,Argentina,1,1,3,1,1
+2003-11-01,Australia,Ireland,0,1,-1,1,1
+2003-11-02,New Zealand,Wales,1,1,6,16,1
+2003-11-08,Australia,Scotland,0,1,6,17,1
+2003-11-09,England,Wales,1,1,7,11,1
+2003-11-09,France,Ireland,1,1,1,22,1
+2003-11-09,New Zealand,South Africa,1,1,4,20,1
+2003-11-15,Australia,New Zealand,0,1,-3,12,1
+2003-11-16,England,France,1,1,1,17,1
+2003-11-20,New Zealand,France,1,1,1,27,1
+2003-11-22,Australia,England,0,1,-1,-3,-1
+2004-02-14,Wales,Scotland,0,0,1,13,1
+2004-02-14,France,Ireland,0,0,2,18,1
+2004-02-15,Italy,England,0,0,-10,-41,-1
+2004-02-21,Scotland,England,0,0,-8,-22,-1
+2004-02-21,France,Italy,0,0,7,25,1
+2004-02-22,Ireland,Wales,0,0,2,21,1
+2004-03-06,Italy,Scotland,0,0,-2,6,1
+2004-03-06,England,Ireland,0,0,5,-6,-1
+2004-03-07,Wales,France,0,0,-4,-7,-1
+2004-03-20,Ireland,Italy,0,0,6,16,1
+2004-03-20,England,Wales,0,0,7,10,1
+2004-03-21,Scotland,France,0,0,-5,-31,-1
+2004-03-27,France,England,0,0,-3,3,1
+2004-03-27,Ireland,Scotland,0,0,4,21,1
+2004-03-27,Wales,Italy,0,0,3,34,1
+2004-06-12,New Zealand,England,0,0,-1,33,1
+2004-06-12,South Africa,Ireland,0,0,-1,14,1
+2004-06-12,Argentina,Wales,0,0,1,6,1
+2004-06-13,Australia,Scotland,0,0,6,20,1
+2004-06-19,Australia,Scotland,0,0,6,21,1
+2004-06-19,South Africa,Ireland,0,0,1,9,1
+2004-06-19,Argentina,Wales,0,0,1,-15,-1
+2004-06-19,New Zealand,England,0,0,1,24,1
+2004-06-26,New Zealand,Argentina,0,0,7,34,1
+2004-06-26,Australia,England,0,0,-1,36,1
+2004-06-26,South Africa,Wales,0,0,2,35,1
+2004-07-17,New Zealand,Australia,0,0,1,9,1
+2004-07-24,New Zealand,South Africa,0,0,4,2,1
+2004-07-31,Australia,South Africa,0,0,3,4,1
+2004-08-07,Australia,New Zealand,0,0,-1,5,1
+2004-08-14,South Africa,New Zealand,0,0,-4,14,1
+2004-08-21,South Africa,Australia,0,0,-3,4,1
+2004-11-06,Wales,South Africa,0,0,-2,-2,-1
+2004-11-06,Scotland,Australia,0,0,-7,-17,-1
+2004-11-13,France,Australia,0,0,-2,13,1
+2004-11-13,Italy,New Zealand,0,0,-10,-49,-1
+2004-11-13,Ireland,South Africa,0,0,-1,5,1
+2004-11-20,England,South Africa,0,0,3,16,1
+2004-11-20,France,Argentina,0,0,3,-10,-1
+2004-11-20,Scotland,Australia,0,0,-6,-14,-1
+2004-11-20,Wales,New Zealand,0,0,-7,-1,-1
+2004-11-27,Ireland,Argentina,0,0,1,2,1
+2004-11-27,Scotland,South Africa,0,0,-4,-35,-1
+2004-11-27,France,New Zealand,0,0,-3,-39,-1
+2004-11-27,England,Australia,0,0,1,-2,-1
+2004-12-04,Argentina,South Africa,0,0,-3,-32,-1
+2005-02-05,Wales,England,0,0,-5,2,1
+2005-02-06,Italy,Ireland,0,0,-5,-11,-1
+2005-02-12,Scotland,Ireland,0,0,-3,-27,-1
+2005-02-12,Italy,Wales,0,0,-4,-30,-1
+2005-02-14,England,France,0,0,-2,-1,-1
+2005-02-26,France,Wales,0,0,3,-6,-1
+2005-02-26,Scotland,Italy,0,0,2,8,1
+2005-02-27,Ireland,England,0,0,1,6,1
+2005-03-05,France,Scotland,0,0,4,7,1
+2005-03-12,England,Italy,0,0,6,32,1
+2005-03-12,Ireland,France,0,0,1,-7,-1
+2005-03-13,Scotland,Wales,0,0,-2,-24,-1
+2005-03-19,England,Scotland,0,0,3,21,1
+2005-03-19,Italy,France,0,0,-8,-43,-1
+2005-03-19,Wales,Ireland,0,0,-2,12,1
+2005-06-11,Argentina,Italy,0,0,4,14,1
+2005-06-17,Argentina,Italy,0,0,4,-1,-1
+2005-06-18,South Africa,France,0,0,1,0,0
+2005-06-25,Australia,Italy,0,0,9,48,1
+2005-06-25,South Africa,France,0,0,1,14,1
+2005-07-02,Australia,France,0,0,2,6,1
+2005-07-09,Australia,South Africa,0,0,1,18,1
+2005-07-23,South Africa,Australia,0,0,-1,13,1
+2005-07-30,South Africa,Australia,0,0,-1,6,1
+2005-08-06,South Africa,New Zealand,0,0,-2,6,1
+2005-08-13,Australia,New Zealand,0,0,-2,-17,-1
+2005-08-20,Australia,South Africa,0,0,-1,-3,-1
+2005-08-27,New Zealand,South Africa,0,0,1,4,1
+2005-09-03,New Zealand,Australia,0,0,2,10,1
+2005-11-05,Wales,New Zealand,0,0,-4,-38,-1
+2005-11-05,France,Australia,0,0,-1,10,1
+2005-11-05,Argentina,South Africa,0,0,-6,-11,-1
+2005-11-12,Scotland,Argentina,0,0,-1,-4,-1
+2005-11-12,England,Australia,0,0,-1,10,1
+2005-11-12,Ireland,New Zealand,0,0,-6,-38,-1
+2005-11-19,Wales,South Africa,0,0,-4,-17,-1
+2005-11-19,Italy,Argentina,0,0,-3,-17,-1
+2005-11-19,England,New Zealand,0,0,-3,-4,-1
+2005-11-19,Ireland,Australia,0,0,-2,-16,-1
+2005-11-26,France,South Africa,0,0,-2,6,1
+2005-11-26,Wales,Australia,0,0,-3,2,1
+2005-11-26,Scotland,New Zealand,0,0,-9,-19,-1
+2006-02-04,Ireland,Italy,0,0,5,10,1
+2006-02-04,England,Wales,0,0,1,34,1
+2006-02-05,Scotland,France,0,0,-7,4,1
+2006-02-11,Italy,England,0,0,-9,-15,-1
+2006-02-11,France,Ireland,0,0,3,12,1
+2006-02-12,Wales,Scotland,0,0,2,10,1
+2006-02-25,Scotland,England,0,0,-4,6,1
+2006-02-25,France,Italy,0,0,9,25,1
+2006-02-26,Ireland,Wales,0,0,-1,26,1
+2006-03-11,Ireland,Scotland,0,0,2,6,1
+2006-03-11,Wales,Italy,0,0,5,0,0
+2006-03-12,France,England,0,0,2,25,1
+2006-03-18,England,Ireland,0,0,1,-4,-1
+2006-03-18,Italy,Scotland,0,0,-3,-3,-1
+2006-03-18,Wales,France,0,0,-4,-5,-1
+2006-06-10,New Zealand,Ireland,0,0,4,11,1
+2006-06-10,South Africa,Scotland,0,0,6,20,1
+2006-06-11,Australia,England,0,0,2,31,1
+2006-06-11,Argentina,Wales,0,0,-2,2,1
+2006-06-17,Australia,England,0,0,2,25,1
+2006-06-17,New Zealand,Ireland,0,0,4,10,1
+2006-06-17,South Africa,Scotland,0,0,5,14,1
+2006-06-17,Argentina,Wales,0,0,-1,18,1
+2006-06-24,Australia,Ireland,0,0,1,22,1
+2006-06-24,South Africa,France,0,0,1,-10,-1
+2006-06-24,Argentina,New Zealand,0,0,-7,-6,-1
+2006-07-08,New Zealand,Australia,0,0,3,20,1
+2006-07-15,Australia,South Africa,0,0,-1,49,1
+2006-07-22,New Zealand,South Africa,0,0,3,18,1
+2006-07-29,Australia,New Zealand,0,0,-2,-4,-1
+2006-08-05,Australia,South Africa,0,0,1,2,1
+2006-08-19,New Zealand,Australia,0,0,2,7,1
+2006-08-26,South Africa,New Zealand,0,0,-3,-19,-1
+2006-09-02,South Africa,New Zealand,0,0,-3,1,1
+2006-09-09,South Africa,Australia,0,0,-1,8,1
+2006-11-04,Wales,Australia,0,0,-5,0,0
+2006-11-05,England,New Zealand,0,0,-5,-21,-1
+2006-11-11,Ireland,South Africa,0,0,-2,17,1
+2006-11-11,France,New Zealand,0,0,-1,-44,-1
+2006-11-11,England,Argentina,0,0,3,-7,-1
+2006-11-11,Italy,Australia,0,0,-8,-7,-1
+2006-11-18,France,New Zealand,0,0,-1,-12,-1
+2006-11-18,England,South Africa,0,0,-3,2,1
+2006-11-18,Italy,Argentina,0,0,-6,-7,-1
+2006-11-19,Ireland,Australia,0,0,-2,15,1
+2006-11-25,Scotland,Australia,0,0,-4,-29,-1
+2006-11-25,Wales,New Zealand,0,0,-8,-35,-1
+2006-11-25,France,Argentina,0,0,5,1,1
+2006-11-25,England,South Africa,0,0,-1,-11,-1
+2007-02-03,Italy,France,0,0,-10,-36,-1
+2007-02-03,England,Scotland,0,0,2,22,1
+2007-02-04,Wales,Ireland,0,0,-3,-10,-1
+2007-02-10,England,Italy,0,0,6,13,1
+2007-02-10,Scotland,Wales,0,0,-1,12,1
+2007-02-11,Ireland,France,0,0,-2,-3,-1
+2007-02-24,Scotland,Italy,0,0,4,-20,-1
+2007-02-24,France,Wales,0,0,7,11,1
+2007-02-24,Ireland,England,0,0,1,30,1
+2007-03-10,Italy,Wales,0,0,-1,3,1
+2007-03-10,Scotland,Ireland,0,0,-5,-1,-1
+2007-03-11,England,France,0,0,-5,8,1
+2007-03-17,Italy,Ireland,0,0,-3,-27,-1
+2007-03-17,Wales,England,0,0,-3,9,1
+2007-03-17,France,Scotland,0,0,8,27,1
+2007-05-26,Argentina,Ireland,0,0,-3,2,1
+2007-05-26,South Africa,England,0,0,1,48,1
+2007-05-26,Australia,Wales,0,0,5,6,1
+2007-06-02,Argentina,Ireland,0,0,-1,16,1
+2007-06-02,Australia,Wales,0,0,5,31,1
+2007-06-02,South Africa,England,0,0,3,33,1
+2007-06-02,New Zealand,France,0,0,1,31,1
+2007-06-09,New Zealand,France,0,0,1,51,1
+2007-06-09,Argentina,Italy,0,0,3,18,1
+2007-06-16,South Africa,Australia,0,0,-1,3,1
+2007-06-23,South Africa,New Zealand,0,0,-1,-5,-1
+2007-06-30,Australia,New Zealand,0,0,-3,5,1
+2007-07-07,Australia,South Africa,0,0,2,8,1
+2007-07-14,New Zealand,South Africa,0,0,3,27,1
+2007-07-21,New Zealand,Australia,0,0,1,14,1
+2007-08-04,England,Wales,0,0,1,57,1
+2007-08-11,England,France,0,0,-4,-6,-1
+2007-08-11,Scotland,Ireland,0,0,-6,10,1
+2007-08-18,Wales,Argentina,0,0,-4,7,1
+2007-08-18,France,England,0,0,4,13,1
+2007-08-24,Ireland,Italy,0,0,4,3,1
+2007-08-25,Scotland,South Africa,0,0,-6,-24,-1
+2007-08-26,Wales,France,0,0,-5,-27,-1
+2007-09-07,France,Argentina,0,1,3,-5,-1
+2007-09-08,New Zealand,Italy,1,1,8,62,1
+2007-09-14,England,South Africa,1,1,-4,-36,-1
+2007-09-15,Wales,Australia,0,1,-6,-12,-1
+2007-09-21,France,Ireland,0,1,1,22,1
+2007-09-23,Scotland,New Zealand,0,1,-9,-40,-1
+2007-09-29,Scotland,Italy,1,1,-1,2,1
+2007-09-30,Argentina,Ireland,1,1,1,15,1
+2007-10-06,Australia,England,1,1,4,-2,-1
+2007-10-06,New Zealand,France,1,1,4,-2,-1
+2007-10-07,Argentina,Scotland,1,1,4,6,1
+2007-10-13,France,England,0,1,4,-5,-1
+2007-10-14,Argentina,South Africa,1,1,-1,-24,-1
+2007-10-19,France,Argentina,0,1,2,-24,-1
+2007-10-20,England,South Africa,1,1,-1,-9,-1
+2007-11-24,Wales,South Africa,0,0,-9,-22,-1
+2008-02-02,England,Wales,0,0,6,-7,-1
+2008-02-02,Ireland,Italy,0,0,4,5,1
+2008-02-03,Scotland,France,0,0,-2,-21,-1
+2008-02-09,France,Ireland,0,0,1,5,1
+2008-02-09,Wales,Scotland,0,0,2,15,1
+2008-02-10,Italy,England,0,0,-6,-4,-1
+2008-02-23,Wales,Italy,0,0,3,39,1
+2008-02-23,Ireland,Scotland,0,0,3,21,1
+2008-02-23,France,England,0,0,-1,-11,-1
+2008-03-08,Scotland,England,0,0,-6,6,1
+2008-03-08,Ireland,Wales,0,0,1,-4,-1
+2008-03-09,France,Italy,0,0,5,12,1
+2008-03-15,Wales,France,0,0,-1,17,1
+2008-03-15,Italy,Scotland,0,0,-2,3,1
+2008-03-15,England,Ireland,0,0,3,23,1
+2008-06-07,Argentina,Scotland,0,0,7,6,1
+2008-06-07,South Africa,Wales,0,0,5,26,1
+2008-06-07,New Zealand,Ireland,0,0,6,10,1
+2008-06-14,Argentina,Scotland,0,0,7,-12,-1
+2008-06-14,South Africa,Wales,0,0,5,16,1
+2008-06-14,Australia,Ireland,0,0,4,6,1
+2008-06-14,New Zealand,England,0,0,3,17,1
+2008-06-21,New Zealand,England,0,0,3,32,1
+2008-06-21,South Africa,Italy,0,0,10,26,1
+2008-06-28,Australia,France,0,0,3,21,1
+2008-06-28,Argentina,Italy,0,0,8,-1,-1
+2008-07-05,Australia,France,0,0,4,30,1
+2008-07-05,New Zealand,South Africa,0,0,-1,11,1
+2008-07-12,New Zealand,South Africa,0,0,1,-2,-1
+2008-07-19,Australia,South Africa,0,0,-2,7,1
+2008-07-26,Australia,New Zealand,0,0,-1,15,1
+2008-08-02,New Zealand,Australia,0,0,1,29,1
+2008-08-09,South Africa,Argentina,0,0,3,54,1
+2008-08-16,South Africa,New Zealand,0,0,1,-19,-1
+2008-08-23,South Africa,Australia,0,0,1,-12,-1
+2008-08-30,South Africa,Australia,0,0,-1,45,1
+2008-09-13,Australia,New Zealand,0,0,-2,-4,-1
+2008-11-01,New Zealand,Australia,1,0,2,5,1
+2008-11-08,Scotland,New Zealand,0,0,-8,-26,-1
+2008-11-08,France,Argentina,0,0,-3,6,1
+2008-11-08,Wales,South Africa,0,0,-4,-5,-1
+2008-11-08,Italy,Australia,0,0,-7,-10,-1
+2008-11-15,England,Australia,0,0,-1,-14,-1
+2008-11-15,Italy,Argentina,0,0,-6,-8,-1
+2008-11-15,Scotland,South Africa,0,0,-7,-4,-1
+2008-11-15,Ireland,New Zealand,0,0,-7,-19,-1
+2008-11-22,France,Australia,0,0,-3,-5,-1
+2008-11-22,Wales,New Zealand,0,0,-6,-20,-1
+2008-11-22,England,South Africa,0,0,-3,-36,-1
+2008-11-22,Ireland,Argentina,0,0,-4,14,1
+2008-11-29,England,New Zealand,0,0,-4,-26,-1
+2008-11-29,Wales,Australia,0,0,-3,3,1
+2009-02-07,Ireland,France,0,0,-1,9,1
+2009-02-07,England,Italy,0,0,5,25,1
+2009-02-08,Scotland,Wales,0,0,-4,-13,-1
+2009-02-14,Wales,England,0,0,2,8,1
+2009-02-14,France,Scotland,0,0,1,9,1
+2009-02-15,Italy,Ireland,0,0,-4,-29,-1
+2009-02-27,France,Wales,0,0,-4,5,1
+2009-02-28,Scotland,Italy,0,0,2,20,1
+2009-02-28,Ireland,England,0,0,1,1,1
+2009-03-14,Italy,Wales,0,0,-7,-5,-1
+2009-03-14,Scotland,Ireland,0,0,-3,-7,-1
+2009-03-15,England,France,0,0,-1,24,1
+2009-03-21,Wales,Ireland,0,0,-1,-2,-1
+2009-03-21,England,Scotland,0,0,2,14,1
+2009-03-21,Italy,France,0,0,-4,-42,-1
+2009-06-06,England,Argentina,0,0,-1,22,1
+2009-06-13,New Zealand,France,0,0,7,-5,-1
+2009-06-13,Argentina,England,0,0,-2,2,1
+2009-06-13,Australia,Italy,0,0,9,23,1
+2009-06-20,New Zealand,France,0,0,4,4,1
+2009-06-20,Australia,Italy,0,0,9,22,1
+2009-06-27,New Zealand,Italy,0,0,11,21,1
+2009-06-27,Australia,France,0,0,2,16,1
+2009-07-18,New Zealand,Australia,0,0,2,6,1
+2009-07-25,South Africa,New Zealand,0,0,-1,9,1
+2009-08-01,South Africa,New Zealand,0,0,1,12,1
+2009-08-08,South Africa,Australia,0,0,2,12,1
+2009-08-22,Australia,New Zealand,0,0,-1,-1,-1
+2009-08-29,Australia,South Africa,0,0,-2,-7,-1
+2009-09-05,Australia,South Africa,0,0,-2,15,1
+2009-09-12,New Zealand,South Africa,0,0,-1,-3,-1
+2009-09-19,New Zealand,Australia,0,0,1,27,1
+2009-10-31,New Zealand,Australia,1,0,1,13,1
+2009-11-07,England,Australia,0,0,-4,-9,-1
+2009-11-07,Wales,New Zealand,0,0,-6,-7,-1
+2009-11-13,France,South Africa,0,0,-4,7,1
+2009-11-14,England,Argentina,0,0,-2,7,1
+2009-11-14,Italy,New Zealand,0,0,-10,-14,-1
+2009-11-15,Ireland,Australia,0,0,-1,0,0
+2009-11-21,Scotland,Australia,0,0,-6,1,1
+2009-11-21,Wales,Argentina,0,0,-1,17,1
+2009-11-21,Italy,South Africa,0,0,-10,-22,-1
+2009-11-21,England,New Zealand,0,0,-5,-13,-1
+2009-11-28,Ireland,South Africa,0,0,-2,5,1
+2009-11-28,Scotland,Argentina,0,0,-1,-3,-1
+2009-11-28,Wales,Australia,0,0,-3,-21,-1
+2009-11-28,France,New Zealand,0,0,-4,-27,-1
+2010-02-06,Ireland,Italy,0,0,7,18,1
+2010-02-06,England,Wales,0,0,2,13,1
+2010-02-07,Scotland,France,0,0,-4,-9,-1
+2010-02-13,France,Ireland,0,0,-1,23,1
+2010-02-13,Wales,Scotland,0,0,2,7,1
+2010-02-14,Italy,England,0,0,-5,-5,-1
+2010-02-26,Wales,France,0,0,-4,-6,-1
+2010-02-27,England,Ireland,0,0,-1,-4,-1
+2010-02-27,Italy,Scotland,0,0,-1,4,1
+2010-03-13,Scotland,England,0,0,-4,0,0
+2010-03-13,Ireland,Wales,0,0,3,15,1
+2010-03-14,France,Italy,0,0,7,26,1
+2010-03-20,Wales,Italy,0,0,3,23,1
+2010-03-20,Ireland,Scotland,0,0,5,-3,-1
+2010-03-20,France,England,0,0,3,2,1
+2010-06-05,Australia,Fiji,0,0,7,46,1
+2010-06-05,Wales,South Africa,0,0,-6,-3,-1
+2010-06-12,Argentina,Scotland,0,0,3,-8,-1
+2010-06-12,South Africa,France,0,0,2,25,1
+2010-06-12,New Zealand,Ireland,0,0,4,38,1
+2010-06-12,Australia,England,0,0,4,10,1
+2010-06-19,Argentina,Scotland,0,0,2,-4,-1
+2010-06-19,South Africa,Italy,0,0,9,16,1
+2010-06-19,New Zealand,Wales,0,0,7,33,1
+2010-06-19,Australia,England,0,0,3,-1,-1
+2010-06-26,Argentina,France,0,0,-6,28,1
+2010-06-26,Australia,Ireland,0,0,1,7,1
+2010-06-26,South Africa,Italy,0,0,9,44,1
+2010-06-26,New Zealand,Wales,0,0,7,19,1
+2010-07-10,New Zealand,South Africa,0,0,1,20,1
+2010-07-17,New Zealand,South Africa,0,0,1,14,1
+2010-07-24,Australia,South Africa,0,0,-1,17,1
+2010-07-31,Australia,New Zealand,0,0,-2,-21,-1
+2010-08-07,New Zealand,Australia,0,0,2,10,1
+2010-08-21,South Africa,New Zealand,0,0,-1,-7,-1
+2010-08-28,South Africa,Australia,0,0,1,13,1
+2010-09-04,South Africa,Australia,0,0,1,-2,-1
+2010-09-11,Australia,New Zealand,0,0,-1,-1,-1
+2010-10-30,Australia,New Zealand,1,0,-1,2,1
+2010-11-06,Ireland,South Africa,0,0,-2,-2,-1
+2010-11-06,England,New Zealand,0,0,-5,-10,-1
+2010-11-06,Wales,Australia,0,0,-7,-9,-1
+2010-11-13,Ireland,Samoa,0,0,5,10,1
+2010-11-13,Scotland,New Zealand,0,0,-6,-46,-1
+2010-11-13,France,Fiji,0,0,6,22,1
+2010-11-13,England,Australia,0,0,-3,17,1
+2010-11-13,Wales,South Africa,0,0,-6,-4,-1
+2010-11-13,Italy,Argentina,0,0,-4,-6,-1
+2010-11-19,Wales,Fiji,0,0,1,0,0
+2010-11-20,England,Samoa,0,0,7,13,1
+2010-11-20,Italy,Australia,0,0,-9,-18,-1
+2010-11-20,Ireland,New Zealand,0,0,-5,-20,-1
+2010-11-20,France,Argentina,0,0,2,6,1
+2010-11-20,Scotland,South Africa,0,0,-6,4,1
+2010-11-27,Wales,New Zealand,0,0,-8,-12,-1
+2010-11-27,France,Australia,0,0,-3,-43,-1
+2010-11-27,Scotland,Samoa,0,0,5,3,1
+2010-11-27,England,South Africa,0,0,-1,-10,-1
+2010-11-28,Ireland,Argentina,0,0,1,20,1
+2011-02-04,Wales,England,0,0,-5,-7,-1
+2011-02-05,Italy,Ireland,0,0,-7,-2,-1
+2011-02-05,France,Scotland,0,0,1,13,1
+2011-02-12,England,Italy,0,0,8,46,1
+2011-02-12,Scotland,Wales,0,0,2,-18,-1
+2011-02-13,Ireland,France,0,0,-1,-3,-1
+2011-02-26,Italy,Wales,0,0,-4,-8,-1
+2011-02-26,England,France,0,0,-1,8,1
+2011-02-27,Scotland,Ireland,0,0,-3,-3,-1
+2011-03-12,Wales,Ireland,0,0,-1,6,1
+2011-03-12,Italy,France,0,0,-7,1,1
+2011-03-13,England,Scotland,0,0,5,6,1
+2011-03-19,France,Wales,0,0,2,19,1
+2011-03-19,Scotland,Italy,0,0,3,13,1
+2011-03-19,Ireland,England,0,0,-2,16,1
+2011-07-17,Australia,Samoa,0,0,8,-9,-1
+2011-07-22,New Zealand,Fiji,0,0,13,46,1
+2011-07-23,Australia,South Africa,0,0,-1,19,1
+2011-07-30,New Zealand,South Africa,0,0,2,33,1
+2011-08-06,England,Wales,0,0,2,4,1
+2011-08-06,Scotland,Ireland,0,0,-5,4,1
+2011-08-06,New Zealand,Australia,0,0,1,16,1
+2011-08-13,South Africa,Australia,0,0,-1,-5,-1
+2011-08-13,France,Ireland,0,0,1,7,1
+2011-08-13,Wales,England,0,0,-3,10,1
+2011-08-20,Scotland,Italy,0,0,2,11,1
+2011-08-20,Ireland,France,0,0,-2,-4,-1
+2011-08-20,South Africa,New Zealand,0,0,-2,13,1
+2011-08-20,Wales,Argentina,0,0,1,15,1
+2011-08-21,Japan,USA,0,0,5,6,1
+2011-08-27,Australia,New Zealand,0,0,-1,5,1
+2011-08-27,Ireland,England,0,0,-2,-11,-1
+2011-09-09,New Zealand,Tonga,0,1,11,31,1
+2011-09-10,Fiji,Namibia,1,1,5,24,1
+2011-09-10,England,Argentina,1,1,4,4,1
+2011-09-10,France,Japan,1,1,9,26,1
+2011-09-10,Scotland,Romania,1,1,10,10,1
+2011-09-11,South Africa,Wales,1,1,3,1,1
+2011-09-11,Australia,Italy,1,1,9,26,1
+2011-09-14,Tonga,Canada,1,1,2,-5,-1
+2011-09-14,Samoa,Namibia,1,1,10,37,1
+2011-09-14,Scotland,Georgia,1,1,9,9,1
+2011-09-16,New Zealand,Japan,0,1,12,76,1
+2011-09-17,South Africa,Fiji,1,1,12,46,1
+2011-09-17,Argentina,Romania,1,1,8,35,1
+2011-09-17,Ireland,Australia,1,1,-6,9,1
+2011-09-18,England,Georgia,1,1,12,31,1
+2011-09-18,Wales,Samoa,1,1,4,7,1
+2011-09-21,Tonga,Japan,1,1,-2,13,1
+2011-09-22,South Africa,Namibia,1,1,17,87,1
+2011-09-24,New Zealand,France,0,1,4,20,1
+2011-09-24,England,Romania,1,1,14,64,1
+2011-09-25,Argentina,Scotland,1,1,-1,1,1
+2011-09-25,Fiji,Samoa,1,1,-2,-20,-1
+2011-09-26,Wales,Namibia,1,1,12,74,1
+2011-09-27,Canada,Japan,1,1,3,0,0
+2011-09-28,Georgia,Romania,1,1,4,16,1
+2011-09-30,South Africa,Samoa,1,1,8,8,1
+2011-10-01,France,Tonga,1,1,8,-5,-1
+2011-10-01,England,Scotland,1,1,5,4,1
+2011-10-02,Wales,Fiji,1,1,9,66,1
+2011-10-02,Argentina,Georgia,1,1,6,18,1
+2011-10-02,Ireland,Italy,1,1,5,30,1
+2011-10-08,France,England,1,1,-4,7,1
+2011-10-08,Wales,Ireland,1,1,-1,12,1
+2011-10-09,New Zealand,Argentina,0,1,6,23,1
+2011-10-09,South Africa,Australia,1,1,1,-2,-1
+2011-10-15,Wales,France,1,1,1,-1,-1
+2011-10-16,New Zealand,Australia,0,1,1,14,1
+2011-10-21,Australia,Wales,1,1,4,3,1
+2011-10-23,New Zealand,France,0,1,2,1,1
+2011-12-03,Wales,Australia,0,0,-6,-6,-1
+2012-02-04,Scotland,England,0,0,-5,-7,-1
+2012-02-04,France,Italy,0,0,9,18,1
+2012-02-05,Ireland,Wales,0,0,2,-2,-1
+2012-02-11,Italy,England,0,0,-7,-4,-1
+2012-02-12,Wales,Scotland,0,0,5,14,1
+2012-02-25,England,Wales,0,0,1,-7,-1
+2012-02-25,Ireland,Italy,0,0,4,32,1
+2012-02-26,Scotland,France,0,0,-8,-6,-1
+2012-03-04,France,Ireland,0,0,5,0,0
+2012-03-10,Wales,Italy,0,0,7,21,1
+2012-03-10,Ireland,Scotland,0,0,4,18,1
+2012-03-11,France,England,0,0,2,-2,-1
+2012-03-17,Italy,Scotland,0,0,-1,7,1
+2012-03-17,Wales,France,0,0,1,7,1
+2012-03-17,England,Ireland,0,0,3,21,1
+2012-06-05,Australia,Scotland,0,0,10,-3,-1
+2012-06-09,Australia,Wales,0,0,3,8,1
+2012-06-09,Argentina,Italy,0,0,4,15,1
+2012-06-09,New Zealand,Ireland,0,0,7,32,1
+2012-06-09,South Africa,England,0,0,1,5,1
+2012-06-16,Australia,Wales,0,0,3,2,1
+2012-06-16,New Zealand,Ireland,0,0,7,3,1
+2012-06-16,Argentina,France,0,0,-1,3,1
+2012-06-16,South Africa,England,0,0,1,9,1
+2012-06-16,Fiji,Scotland,0,0,-4,-12,-1
+2012-06-23,Argentina,France,0,0,1,-39,-1
+2012-06-23,Australia,Wales,0,0,2,1,1
+2012-06-23,New Zealand,Ireland,0,0,7,60,1
+2012-06-23,South Africa,England,0,0,2,0,0
+2012-08-18,Australia,New Zealand,0,0,-1,-8,-1
+2012-08-18,South Africa,Argentina,0,0,5,21,1
+2012-08-25,New Zealand,Australia,0,0,1,22,1
+2012-08-25,Argentina,South Africa,0,0,-5,0,0
+2012-09-08,New Zealand,Argentina,0,0,7,16,1
+2012-09-08,Australia,South Africa,0,0,1,7,1
+2012-09-15,New Zealand,South Africa,0,0,2,10,1
+2012-09-15,Australia,Argentina,0,0,6,4,1
+2012-09-29,South Africa,Australia,0,0,-1,23,1
+2012-09-29,Argentina,New Zealand,0,0,-7,-39,-1
+2012-10-06,Argentina,Australia,0,0,-5,-6,-1
+2012-10-06,South Africa,New Zealand,0,0,-1,-16,-1
+2012-10-20,Australia,New Zealand,0,0,-1,0,0
+2012-11-10,England,Fiji,0,0,10,42,1
+2012-11-10,France,Australia,0,0,-3,27,1
+2012-11-10,Ireland,South Africa,0,0,-4,-4,-1
+2012-11-10,Wales,Argentina,0,0,2,-14,-1
+2012-11-10,Romania,Japan,0,0,-2,-11,-1
+2012-11-11,Scotland,New Zealand,0,0,-8,-29,-1
+2012-11-16,Wales,Samoa,0,0,4,-7,-1
+2012-11-17,Ireland,Fiji,0,0,6,53,1
+2012-11-17,France,Argentina,0,0,3,17,1
+2012-11-17,Scotland,South Africa,0,0,-7,-11,-1
+2012-11-17,Italy,New Zealand,0,0,-10,-32,-1
+2012-11-17,England,Australia,0,0,-2,-6,-1
+2012-11-24,France,Samoa,0,0,5,5,1
+2012-11-24,Scotland,Tonga,0,0,2,-6,-1
+2012-11-24,Ireland,Argentina,0,0,-1,22,1
+2012-11-24,Wales,New Zealand,0,0,-7,-23,-1
+2012-11-24,England,South Africa,0,0,-3,-1,-1
+2012-11-24,Italy,Australia,0,0,-8,-3,-1
+2012-12-01,Wales,Australia,0,0,-4,-2,-1
+2012-12-01,England,New Zealand,0,0,-4,17,1
+2013-02-02,Wales,Ireland,0,0,-3,-8,-1
+2013-02-02,Belgium,Georgia,0,0,-4,-4,-1
+2013-02-02,Portugal,Romania,0,0,-3,-6,-1
+2013-02-02,England,Scotland,0,0,7,20,1
+2013-02-03,Italy,France,0,0,-6,5,1
+2013-02-09,Romania,Russia,0,0,1,15,1
+2013-02-09,Georgia,Portugal,0,0,6,13,1
+2013-02-09,Scotland,Italy,0,0,-3,24,1
+2013-02-09,France,Wales,0,0,5,-10,-1
+2013-02-10,Ireland,England,0,0,-2,-6,-1
+2013-02-23,Spain,Romania,0,0,-1,-10,-1
+2013-02-23,Russia,Georgia,0,0,-3,-14,-1
+2013-02-23,Italy,Wales,0,0,-4,-17,-1
+2013-02-23,England,France,0,0,1,10,1
+2013-02-23,Portugal,Belgium,0,0,-2,6,1
+2013-02-24,Scotland,Ireland,0,0,-4,4,1
+2013-03-09,Georgia,Spain,0,0,2,43,1
+2013-03-09,Portugal,Russia,0,0,-1,-8,-1
+2013-03-09,Ireland,France,0,0,-2,0,0
+2013-03-09,Scotland,Wales,0,0,-4,-10,-1
+2013-03-09,Belgium,Romania,0,0,-5,-18,-1
+2013-03-10,England,Italy,0,0,8,7,1
+2013-03-16,Romania,Georgia,0,0,-1,0,0
+2013-03-16,Spain,Portugal,0,0,3,0,0
+2013-03-16,Wales,England,0,0,-1,27,1
+2013-03-16,France,Scotland,0,0,4,7,1
+2013-03-16,Italy,Ireland,0,0,-5,7,1
+2013-05-25,Japan,Tonga,0,0,-4,-10,-1
+2013-06-01,Fiji,Japan,0,0,1,14,1
+2013-06-05,Fiji,Canada,0,0,1,-2,-1
+2013-06-08,Japan,Wales,0,0,-10,-4,-1
+2013-06-08,Argentina,England,0,0,-4,-29,-1
+2013-06-08,Romania,Russia,0,0,1,10,1
+2013-06-08,New Zealand,France,0,0,5,10,1
+2013-06-08,South Africa,Italy,0,0,10,34,1
+2013-06-08,Canada,Tonga,0,0,-3,9,1
+2013-06-08,Scotland,Samoa,0,0,-3,-10,-1
+2013-06-15,Japan,Wales,0,0,-10,15,1
+2013-06-15,USA,Tonga,0,0,-5,-9,-1
+2013-06-15,New Zealand,France,0,0,5,30,1
+2013-06-15,South Africa,Scotland,0,0,9,13,1
+2013-06-15,Argentina,England,0,0,-5,-25,-1
+2013-06-19,Japan,Canada,0,0,-2,3,1
+2013-06-19,Fiji,USA,0,0,3,25,1
+2013-06-22,Scotland,Italy,1,0,1,1,1
+2013-06-22,South Africa,Samoa,0,0,5,33,1
+2013-06-22,New Zealand,France,0,0,4,15,1
+2013-06-23,Fiji,Tonga,0,0,-4,13,1
+2013-06-23,Japan,USA,0,0,2,18,1
+2013-08-17,South Africa,Argentina,0,0,8,60,1
+2013-08-17,Australia,New Zealand,0,0,-2,-18,-1
+2013-08-24,New Zealand,Australia,0,0,3,11,1
+2013-08-24,Argentina,South Africa,0,0,-8,-5,-1
+2013-09-07,Australia,South Africa,0,0,-2,-26,-1
+2013-09-07,New Zealand,Argentina,0,0,9,15,1
+2013-09-14,Australia,Argentina,0,0,6,1,1
+2013-09-14,New Zealand,South Africa,0,0,1,14,1
+2013-09-28,Argentina,New Zealand,0,0,-9,-18,-1
+2013-09-28,South Africa,Australia,0,0,2,20,1
+2013-10-05,South Africa,New Zealand,0,0,-1,-11,-1
+2013-10-05,Argentina,Australia,0,0,-6,-37,-1
+2013-10-19,New Zealand,Australia,0,0,3,8,1
+2013-11-02,Japan,New Zealand,0,0,-14,-48,-1
+2013-11-02,England,Australia,0,0,1,7,1
+2013-11-09,Romania,Tonga,0,0,-6,1,1
+2013-11-09,England,Argentina,0,0,7,19,1
+2013-11-09,Italy,Australia,0,0,-8,-30,-1
+2013-11-09,Wales,South Africa,0,0,-4,-9,-1
+2013-11-09,France,New Zealand,0,0,-4,-7,-1
+2013-11-09,Scotland,Japan,0,0,6,25,1
+2013-11-09,Ireland,Samoa,0,0,-1,31,1
+2013-11-16,France,Tonga,0,0,8,20,1
+2013-11-16,Wales,Argentina,0,0,3,34,1
+2013-11-16,Ireland,Australia,0,0,-2,-17,-1
+2013-11-16,England,New Zealand,0,0,-2,-8,-1
+2013-11-17,Scotland,South Africa,0,0,-7,-28,-1
+2013-11-22,Wales,Tonga,0,0,6,10,1
+2013-11-23,Scotland,Australia,0,0,-5,-6,-1
+2013-11-23,Italy,Argentina,0,0,-1,-5,-1
+2013-11-23,France,South Africa,0,0,-3,-9,-1
+2013-11-24,Ireland,New Zealand,0,0,-6,-2,-1
+2013-11-30,Wales,Australia,0,0,-2,-4,-1
+2014-02-01,Wales,Italy,0,0,7,8,1
+2014-02-01,Georgia,Belgium,0,0,11,35,1
+2014-02-01,Romania,Portugal,0,0,4,24,1
+2014-02-01,France,England,0,0,-1,2,1
+2014-02-02,Ireland,Scotland,0,0,2,22,1
+2014-02-08,Ireland,Wales,0,0,-1,23,1
+2014-02-08,Scotland,England,0,0,-6,-20,-1
+2014-02-08,Russia,Romania,0,0,-1,-31,-1
+2014-02-08,Portugal,Georgia,0,0,-5,-25,-1
+2014-02-08,Tonga,Spain,0,0,10,-5,-1
+2014-02-09,France,Italy,0,0,8,20,1
+2014-02-21,Wales,France,0,0,-2,21,1
+2014-02-22,Georgia,Russia,0,0,4,26,1
+2014-02-22,England,Ireland,0,0,2,3,1
+2014-02-22,Belgium,Portugal,0,0,-6,-13,-1
+2014-02-22,Italy,Scotland,0,0,-3,-1,-1
+2014-02-22,Romania,Spain,0,0,4,26,1
+2014-03-08,Russia,Portugal,0,0,1,16,1
+2014-03-08,Spain,Georgia,0,0,-6,-7,-1
+2014-03-08,Scotland,France,0,0,-3,-2,-1
+2014-03-08,Ireland,Italy,0,0,9,39,1
+2014-03-08,Romania,Belgium,0,0,12,19,1
+2014-03-09,England,Wales,0,0,2,11,1
+2014-03-15,Wales,Scotland,0,0,3,48,1
+2014-03-15,France,Ireland,0,0,1,-2,-1
+2014-03-15,Italy,England,0,0,-10,-41,-1
+2014-03-15,Georgia,Romania,0,0,1,13,1
+2014-03-15,Portugal,Spain,0,0,-1,-4,-1
+2014-05-30,Japan,Samoa,0,0,-5,19,1
+2014-06-07,Argentina,Ireland,0,0,-3,-12,-1
+2014-06-07,New Zealand,England,0,0,3,5,1
+2014-06-07,Australia,France,0,0,4,27,1
+2014-06-07,Samoa,Tonga,0,0,4,0,0
+2014-06-08,Canada,Japan,0,0,-4,-9,-1
+2014-06-13,Romania,Uruguay,0,0,3,18,1
+2014-06-14,Australia,France,0,0,4,6,1
+2014-06-14,New Zealand,England,0,0,3,1,1
+2014-06-14,Argentina,Ireland,0,0,-4,-6,-1
+2014-06-14,South Africa,Wales,0,0,4,22,1
+2014-06-14,Georgia,Spain,0,0,6,10,1
+2014-06-14,Fiji,Tonga,0,0,1,28,1
+2014-06-15,USA,Japan,0,0,-8,-8,-1
+2014-06-18,Romania,Russia,0,0,2,2,1
+2014-06-18,Georgia,Argentina,0,0,-3,-10,-1
+2014-06-21,New Zealand,England,0,0,3,23,1
+2014-06-21,South Africa,Wales,0,0,4,1,1
+2014-06-21,Australia,France,0,0,4,26,1
+2014-06-21,Fiji,Samoa,0,0,1,-5,-1
+2014-06-21,Argentina,Scotland,0,0,-4,-2,-1
+2014-06-22,Russia,Uruguay,0,0,1,-7,-1
+2014-06-28,South Africa,Scotland,0,0,6,49,1
+2014-07-26,Samoa,Wales,0,0,-3,7,1
+2014-07-27,Australia,Samoa,0,0,6,24,1
+2014-07-27,Samoa,South Africa,0,0,-7,-28,-1
+2014-07-27,Samoa,England,0,0,-5,1,1
+2014-08-16,Australia,New Zealand,0,0,-2,0,0
+2014-08-16,South Africa,Argentina,0,0,10,7,1
+2014-08-23,Argentina,South Africa,0,0,-10,-2,-1
+2014-08-23,New Zealand,Australia,0,0,2,31,1
+2014-09-06,Australia,South Africa,0,0,-1,1,1
+2014-09-06,New Zealand,Argentina,0,0,11,19,1
+2014-09-13,Australia,Argentina,0,0,9,7,1
+2014-09-13,New Zealand,South Africa,0,0,1,4,1
+2014-09-27,Argentina,New Zealand,0,0,-11,-21,-1
+2014-09-27,South Africa,Australia,0,0,1,18,1
+2014-10-04,Argentina,Australia,0,0,-9,4,1
+2014-10-04,South Africa,New Zealand,0,0,-1,2,1
+2014-10-18,Australia,New Zealand,0,0,-3,-1,-1
+2014-11-07,Canada,Namibia,0,0,5,4,1
+2014-11-08,Ireland,South Africa,0,0,-3,14,1
+2014-11-08,England,New Zealand,0,0,-2,-3,-1
+2014-11-08,France,Fiji,0,0,5,25,1
+2014-11-08,Wales,Australia,0,0,-2,-5,-1
+2014-11-08,Georgia,Tonga,0,0,-2,-14,-1
+2014-11-08,Romania,USA,0,0,2,-10,-1
+2014-11-08,Scotland,Argentina,0,0,2,10,1
+2014-11-14,Samoa,Canada,0,0,6,10,1
+2014-11-15,Wales,Fiji,0,0,5,4,1
+2014-11-15,Romania,Japan,0,0,-9,-5,-1
+2014-11-15,Scotland,New Zealand,0,0,-7,-8,-1
+2014-11-15,England,South Africa,0,0,-2,-3,-1
+2014-11-15,France,Australia,0,0,-3,3,1
+2014-11-15,Italy,Argentina,0,0,-4,-2,-1
+2014-11-15,Tonga,USA,0,0,3,28,1
+2014-11-16,Ireland,Georgia,0,0,10,42,1
+2014-11-21,Fiji,USA,0,0,4,6,1
+2014-11-22,England,Samoa,0,0,6,19,1
+2014-11-22,Scotland,Tonga,0,0,4,25,1
+2014-11-22,Romania,Canada,0,0,-2,9,1
+2014-11-22,Portugal,Namibia,0,0,-1,9,1
+2014-11-22,Wales,New Zealand,0,0,-6,-18,-1
+2014-11-22,France,Argentina,0,0,3,-5,-1
+2014-11-22,Italy,South Africa,0,0,-12,-16,-1
+2014-11-22,Ireland,Australia,0,0,1,3,1
+2014-11-23,Georgia,Japan,0,0,-5,11,1
+2014-11-29,Wales,South Africa,0,0,-4,6,1
+2014-11-29,England,Australia,0,0,1,9,1
+2015-02-06,Wales,England,0,0,-2,-5,-1
+2015-02-07,Portugal,Romania,0,0,-5,-27,-1
+2015-02-07,Italy,Ireland,0,0,-11,-23,-1
+2015-02-07,France,Scotland,0,0,1,7,1
+2015-02-14,England,Italy,0,0,11,30,1
+2015-02-14,Georgia,Portugal,0,0,8,5,1
+2015-02-14,Romania,Spain,0,0,5,21,1
+2015-02-14,Ireland,France,0,0,3,7,1
+2015-02-15,Scotland,Wales,0,0,-3,-3,-1
+2015-02-28,Russia,Romania,0,0,-3,3,1
+2015-02-28,Spain,Georgia,0,0,-6,-13,-1
+2015-02-28,Scotland,Italy,0,0,5,-3,-1
+2015-02-28,France,Wales,0,0,-1,-7,-1
+2015-03-01,Ireland,England,0,0,-1,10,1
+2015-03-14,England,Scotland,0,0,6,12,1
+2015-03-14,Portugal,Spain,0,0,-1,-11,-1
+2015-03-14,Georgia,Russia,0,0,4,33,1
+2015-03-14,Wales,Ireland,0,0,-3,7,1
+2015-03-15,Italy,France,0,0,-7,-29,-1
+2015-03-21,England,France,0,0,3,20,1
+2015-03-21,Russia,Portugal,0,0,4,13,1
+2015-03-21,Italy,Wales,0,0,-9,-41,-1
+2015-03-21,Romania,Georgia,0,0,-3,-9,-1
+2015-03-21,Scotland,Ireland,0,0,-7,-30,-1
+2015-06-12,Romania,Spain,0,0,2,26,1
+2015-06-13,Georgia,Uruguay,0,0,7,9,1
+2015-06-17,Romania,Namibia,0,0,4,40,1
+2015-06-21,Spain,Namibia,0,0,2,17,1
+2015-07-08,Samoa,New Zealand,0,0,-8,-9,-1
+2015-07-17,New Zealand,Argentina,0,0,7,21,1
+2015-07-18,Fiji,Tonga,0,0,1,8,1
+2015-07-18,Australia,South Africa,0,0,-4,4,1
+2015-07-19,Canada,Japan,0,0,-4,-14,-1
+2015-07-19,USA,Samoa,0,0,-7,-5,-1
+2015-07-25,USA,Japan,0,0,-4,5,1
+2015-07-25,South Africa,New Zealand,0,0,-1,-7,-1
+2015-07-25,Fiji,Samoa,0,0,-1,0,0
+2015-07-25,Canada,Tonga,0,0,-4,-10,-1
+2015-07-25,Argentina,Australia,0,0,-3,-25,-1
+2015-07-29,USA,Tonga,0,0,-4,-14,-1
+2015-07-29,Fiji,Japan,0,0,3,5,1
+2015-07-30,Canada,Samoa,0,0,-9,-1,-1
+2015-08-03,Tonga,Japan,0,0,2,11,1
+2015-08-04,Fiji,Samoa,0,0,-1,10,1
+2015-08-08,Australia,New Zealand,0,0,-4,8,1
+2015-08-08,Wales,Ireland,0,0,-3,-14,-1
+2015-08-08,South Africa,Argentina,0,0,6,-12,-1
+2015-08-15,England,France,0,0,3,5,1
+2015-08-15,Ireland,Scotland,0,0,10,6,1
+2015-08-15,Argentina,South Africa,0,0,-3,-14,-1
+2015-08-15,New Zealand,Australia,0,0,2,28,1
+2015-08-22,France,England,0,0,-3,5,1
+2015-08-22,Italy,Scotland,0,0,-2,-4,-1
+2015-08-29,Scotland,Italy,0,0,5,41,1
+2015-08-29,Ireland,Wales,0,0,4,-6,-1
+2015-09-02,Canada,Georgia,0,0,-5,1,1
+2015-09-05,Wales,Italy,0,0,10,4,1
+2015-09-05,France,Scotland,0,0,3,3,1
+2015-09-05,Romania,Tonga,0,0,-5,-5,-1
+2015-09-05,England,Ireland,0,0,-3,8,1
+2015-09-05,Japan,Georgia,0,0,-1,3,1
+2015-09-06,Fiji,Canada,0,0,9,29,1
+2015-09-18,England,Fiji,0,1,5,24,1
+2015-09-19,South Africa,Japan,1,1,10,-2,-1
+2015-09-19,Tonga,Georgia,1,1,5,-7,-1
+2015-09-19,France,Italy,1,1,7,22,1
+2015-09-20,Wales,Uruguay,1,1,15,45,1
+2015-09-20,New Zealand,Argentina,1,1,7,10,1
+2015-09-20,Samoa,USA,1,1,3,9,1
+2015-09-23,France,Romania,1,1,10,27,1
+2015-09-23,Australia,Fiji,1,1,7,15,1
+2015-09-23,Scotland,Japan,1,1,-1,35,1
+2015-09-24,New Zealand,Namibia,1,1,18,44,1
+2015-09-25,Argentina,Georgia,1,1,5,45,1
+2015-09-26,South Africa,Samoa,1,1,4,40,1
+2015-09-26,England,Wales,0,1,1,-3,-1
+2015-09-27,Ireland,Romania,1,1,12,34,1
+2015-09-27,Australia,Uruguay,1,1,18,62,1
+2015-09-29,Tonga,Namibia,1,1,6,14,1
+2015-10-01,Wales,Fiji,1,1,8,10,1
+2015-10-02,New Zealand,Georgia,1,1,14,33,1
+2015-10-03,Samoa,Japan,1,1,1,-21,-1
+2015-10-03,South Africa,Scotland,1,1,4,18,1
+2015-10-03,England,Australia,0,1,-3,-20,-1
+2015-10-04,Ireland,Italy,1,1,10,7,1
+2015-10-04,Argentina,Tonga,1,1,5,29,1
+2015-10-06,Fiji,Uruguay,1,1,10,32,1
+2015-10-06,Canada,Romania,1,1,-1,-2,-1
+2015-10-07,Namibia,Georgia,1,1,-5,-1,-1
+2015-10-09,New Zealand,Tonga,1,1,11,38,1
+2015-10-10,Australia,Wales,1,1,1,9,1
+2015-10-10,England,Uruguay,0,1,12,57,1
+2015-10-10,Samoa,Scotland,1,1,-6,-3,-1
+2015-10-11,France,Ireland,1,1,-1,-15,-1
+2015-10-11,Argentina,Namibia,1,1,12,45,1
+2015-10-11,USA,Japan,1,1,-5,-10,-1
+2015-10-17,South Africa,Wales,1,1,-1,4,1
+2015-10-17,New Zealand,France,1,1,6,49,1
+2015-10-18,Ireland,Argentina,1,1,3,-23,-1
+2015-10-18,Australia,Scotland,1,1,7,1,1
+2015-10-24,South Africa,New Zealand,1,1,-2,-2,-1
+2015-10-25,Argentina,Australia,1,1,-2,-14,-1
+2015-10-30,South Africa,Argentina,1,1,1,11,1
+2015-10-31,New Zealand,Australia,1,1,1,17,1
+2016-02-06,Scotland,England,0,0,-1,-6,-1
+2016-02-06,Romania,Portugal,0,0,10,25,1
+2016-02-06,France,Italy,0,0,5,2,1
+2016-02-07,Ireland,Wales,0,0,-2,0,0
+2016-02-13,Portugal,Georgia,0,0,-13,-26,-1
+2016-02-13,France,Ireland,0,0,-2,1,1
+2016-02-13,Spain,Romania,0,0,-4,-3,-1
+2016-02-13,Wales,Scotland,0,0,7,4,1
+2016-02-14,Italy,England,0,0,-5,-31,-1
+2016-02-26,Wales,France,0,0,3,9,1
+2016-02-27,Italy,Scotland,0,0,-1,-16,-1
+2016-02-27,Georgia,Spain,0,0,8,31,1
+2016-02-27,Romania,Russia,0,0,1,30,1
+2016-02-27,England,Ireland,0,0,2,11,1
+2016-03-12,Spain,Portugal,0,0,7,32,1
+2016-03-12,Russia,Georgia,0,0,-6,-17,-1
+2016-03-12,Ireland,Italy,0,0,6,43,1
+2016-03-12,England,Wales,0,0,-2,4,1
+2016-03-13,Scotland,France,0,0,-2,11,1
+2016-03-19,Portugal,Russia,0,0,-10,-32,-1
+2016-03-19,Ireland,Scotland,0,0,2,10,1
+2016-03-19,France,England,0,0,-3,-10,-1
+2016-03-19,Georgia,Romania,0,0,4,29,1
+2016-03-19,Wales,Italy,0,0,10,53,1
+2016-05-29,England,Wales,0,0,1,14,1
+2016-06-09,Namibia,Romania,0,0,-5,-12,-1
+2016-06-11,Fiji,Tonga,0,0,2,5,1
+2016-06-11,Argentina,Italy,0,0,9,6,1
+2016-06-11,Canada,Japan,0,0,-8,-4,-1
+2016-06-11,Samoa,Georgia,0,0,-3,0,0
+2016-06-11,Australia,England,0,0,2,-11,-1
+2016-06-11,New Zealand,Wales,0,0,5,18,1
+2016-06-11,South Africa,Ireland,0,0,4,-6,-1
+2016-06-13,Namibia,Spain,0,0,1,2,1
+2016-06-14,Uruguay,Romania,0,0,-4,-40,-1
+2016-06-18,Uruguay,Spain,0,0,2,16,1
+2016-06-18,Australia,England,0,0,1,-16,-1
+2016-06-18,South Africa,Ireland,0,0,3,6,1
+2016-06-18,New Zealand,Wales,0,0,5,14,1
+2016-06-18,Georgia,Tonga,0,0,1,3,1
+2016-06-18,Fiji,Samoa,0,0,4,10,1
+2016-06-18,Japan,Scotland,0,0,-1,-13,-1
+2016-06-19,Argentina,France,0,0,3,11,1
+2016-06-24,Fiji,Georgia,0,0,2,-11,-1
+2016-06-25,New Zealand,Wales,0,0,5,40,1
+2016-06-25,South Africa,Ireland,0,0,4,6,1
+2016-06-25,Japan,Scotland,0,0,-3,-5,-1
+2016-06-25,Argentina,France,0,0,4,-27,-1
+2016-06-25,Australia,England,0,0,-2,-4,-1
+2016-06-25,Samoa,Tonga,0,0,-1,20,1
+2016-08-20,South Africa,Argentina,0,0,6,7,1
+2016-08-20,Australia,New Zealand,0,0,-3,-34,-1
+2016-08-27,New Zealand,Australia,0,0,3,20,1
+2016-08-27,Argentina,South Africa,0,0,-6,2,1
+2016-09-10,Australia,South Africa,0,0,-1,6,1
+2016-09-10,New Zealand,Argentina,0,0,6,35,1
+2016-09-17,Australia,Argentina,0,0,4,16,1
+2016-09-17,New Zealand,South Africa,0,0,3,28,1
+2016-10-01,South Africa,Australia,0,0,-1,8,1
+2016-10-01,Argentina,New Zealand,0,0,-6,-19,-1
+2016-10-08,South Africa,New Zealand,0,0,-2,-42,-1
+2016-10-08,Argentina,Australia,1,0,-3,-12,-1
+2016-10-22,New Zealand,Australia,0,0,2,27,1
+2016-11-05,Ireland,New Zealand,1,0,-5,11,1
+2016-11-05,Wales,Australia,0,0,-2,-24,-1
+2016-11-05,Japan,Argentina,0,0,-3,-34,-1
+2016-11-12,England,South Africa,0,0,2,16,1
+2016-11-12,Italy,New Zealand,0,0,-12,-58,-1
+2016-11-12,France,Samoa,0,0,6,44,1
+2016-11-12,Spain,Tonga,0,0,-8,-15,-1
+2016-11-12,Scotland,Australia,0,0,-6,-1,-1
+2016-11-12,Wales,Argentina,0,0,-1,4,1
+2016-11-12,Portugal,Belgium,0,0,-5,5,1
+2016-11-12,Georgia,Japan,0,0,1,-6,-1
+2016-11-12,Romania,USA,0,0,1,13,1
+2016-11-19,England,Fiji,0,0,8,43,1
+2016-11-19,Tonga,USA,0,0,2,3,1
+2016-11-19,Ireland,New Zealand,0,0,-4,-12,-1
+2016-11-19,France,Australia,0,0,-4,-2,-1
+2016-11-19,Georgia,Samoa,0,0,2,4,1
+2016-11-19,Romania,Canada,0,0,2,5,1
+2016-11-19,Italy,South Africa,0,0,-9,2,1
+2016-11-19,Spain,Uruguay,0,0,-4,17,1
+2016-11-19,Scotland,Argentina,0,0,-1,3,1
+2016-11-19,Wales,Japan,0,0,5,3,1
+2016-11-25,Samoa,Canada,0,0,4,2,1
+2016-11-26,Wales,South Africa,0,0,-1,14,1
+2016-11-26,Scotland,Georgia,0,0,5,27,1
+2016-11-26,Fiji,Japan,0,0,1,13,1
+2016-11-26,France,New Zealand,0,0,-7,-5,-1
+2016-11-26,England,Argentina,0,0,7,13,1
+2016-11-26,Romania,Uruguay,0,0,5,26,1
+2016-11-26,Ireland,Australia,0,0,-1,3,1
+2016-12-03,England,Australia,0,0,1,16,1
+2017-02-04,USA,Uruguay,0,0,4,6,1
+2017-02-04,Scotland,Ireland,0,0,-3,5,1
+2017-02-04,England,France,0,0,6,3,1
+2017-02-05,Italy,Wales,0,0,-8,-26,-1
+2017-02-11,Italy,Ireland,0,0,-9,-53,-1
+2017-02-11,Wales,England,0,0,-3,-5,-1
+2017-02-11,Belgium,Georgia,0,0,-14,-25,-1
+2017-02-12,France,Scotland,0,0,-1,6,1
+2017-02-12,Canada,Chile,0,0,12,21,1
+2017-02-18,Romania,Spain,0,0,5,10,1
+2017-02-25,Chile,USA,0,0,-13,-48,-1
+2017-02-25,Uruguay,Canada,0,0,-3,4,1
+2017-02-25,Ireland,France,0,0,3,10,1
+2017-02-25,Scotland,Wales,0,0,-3,16,1
+2017-02-26,England,Italy,0,0,12,21,1
+2017-03-04,Russia,Romania,0,0,-2,-20,-1
+2017-03-04,Netherlands,Portugal,0,0,-4,-16,-1
+2017-03-04,Uruguay,Chile,0,0,10,31,1
+2017-03-04,Spain,Georgia,0,0,-10,-10,-1
+2017-03-10,Wales,Ireland,0,0,-3,13,1
+2017-03-11,Belgium,Romania,0,0,-11,-16,-1
+2017-03-11,England,Scotland,0,0,3,40,1
+2017-03-11,Italy,France,0,0,-6,-22,-1
+2017-03-12,Georgia,Russia,0,0,7,14,1
+2017-03-18,France,Wales,0,0,-2,2,1
+2017-03-18,Ireland,England,0,0,-2,4,1
+2017-03-18,Scotland,Italy,0,0,10,29,1
+2017-03-19,Romania,Georgia,0,0,-4,1,1
+2017-05-20,Belgium,Portugal,0,0,-4,11,1
+2017-06-10,Argentina,England,0,0,-7,-4,-1
+2017-06-10,Canada,Georgia,0,0,-11,-13,-1
+2017-06-10,Australia,Fiji,0,0,7,23,1
+2017-06-10,Italy,Scotland,1,0,-10,-21,-1
+2017-06-10,South Africa,France,0,0,-1,23,1
+2017-06-10,Japan,Romania,0,0,5,12,1
+2017-06-10,Namibia,Spain,0,0,-1,-2,-1
+2017-06-14,Uruguay,Russia,0,0,-2,3,1
+2017-06-16,Tonga,Wales,0,0,-6,-18,-1
+2017-06-16,New Zealand,Samoa,0,0,13,78,1
+2017-06-17,Canada,Romania,0,0,-7,-16,-1
+2017-06-17,USA,Georgia,0,0,-5,-4,-1
+2017-06-17,Argentina,England,0,0,-7,-10,-1
+2017-06-17,Japan,Ireland,0,0,-7,-28,-1
+2017-06-17,South Africa,France,0,0,3,22,1
+2017-06-17,Australia,Scotland,0,0,3,-5,-1
+2017-06-18,Uruguay,Spain,0,0,-3,10,1
+2017-06-18,Namibia,Russia,0,0,-1,-21,-1
+2017-06-23,Samoa,Wales,0,0,-7,-2,-1
+2017-06-24,Argentina,Georgia,0,0,3,16,1
+2017-06-24,Fiji,Scotland,0,0,-5,5,1
+2017-06-24,South Africa,France,0,0,2,23,1
+2017-06-24,Japan,Ireland,0,0,-8,-22,-1
+2017-06-24,Australia,Italy,0,0,11,13,1
+2017-07-01,Tonga,Samoa,0,0,2,4,1
+2017-07-08,Tonga,Fiji,0,0,-3,-4,-1
+2017-07-15,Samoa,Fiji,0,0,-5,-22,-1
+2017-08-19,Australia,New Zealand,0,0,-3,-20,-1
+2017-08-19,South Africa,Argentina,0,0,4,22,1
+2017-08-26,New Zealand,Australia,0,0,4,6,1
+2017-08-26,Argentina,South Africa,0,0,-6,-18,-1
+2017-09-09,Australia,South Africa,0,0,-2,0,0
+2017-09-09,New Zealand,Argentina,0,0,9,17,1
+2017-09-16,New Zealand,South Africa,0,0,2,57,1
+2017-09-16,Australia,Argentina,0,0,5,25,1
+2017-09-30,Argentina,New Zealand,0,0,-9,-26,-1
+2017-09-30,South Africa,Australia,0,0,2,0,0
+2017-10-07,Tonga,Uruguay,0,0,5,-9,-1
+2017-10-07,Argentina,Australia,0,0,-5,-17,-1
+2017-10-07,South Africa,New Zealand,0,0,-3,-1,-1
+2017-10-11,Tonga,Canada,0,0,11,16,1
+2017-10-15,Tonga,Samoa,0,0,3,3,1
+2017-10-21,Australia,New Zealand,0,0,-2,5,1
+2017-11-04,Japan,Australia,0,0,-8,-33,-1
+2017-11-11,Ireland,South Africa,0,0,1,35,1
+2017-11-11,Scotland,Samoa,0,0,10,6,1
+2017-11-11,England,Argentina,0,0,8,13,1
+2017-11-11,France,New Zealand,0,0,-7,-20,-1
+2017-11-11,Wales,Australia,0,0,-4,-8,-1
+2017-11-11,Georgia,Canada,0,0,12,32,1
+2017-11-18,Scotland,New Zealand,0,0,-5,-5,-1
+2017-11-18,Italy,Argentina,0,0,-3,-16,-1
+2017-11-18,France,South Africa,0,0,-3,-1,-1
+2017-11-18,Ireland,Fiji,0,0,5,3,1
+2017-11-18,England,Australia,0,0,1,24,1
+2017-11-18,Tonga,Japan,0,0,-3,-33,-1
+2017-11-18,Namibia,Uruguay,0,0,-2,-16,-1
+2017-11-18,Romania,Samoa,0,0,1,4,1
+2017-11-18,Wales,Georgia,0,0,5,7,1
+2017-11-25,Wales,New Zealand,0,0,-6,-15,-1
+2017-11-25,Scotland,Australia,0,0,-3,29,1
+2017-11-25,Namibia,Uruguay,0,0,-4,-5,-1
+2017-11-25,Ireland,Argentina,0,0,5,9,1
+2017-11-25,Georgia,USA,0,0,5,1,1
+2017-11-25,France,Japan,0,0,3,0,0
+2017-11-25,Fiji,Canada,0,0,11,40,1
+2017-11-25,England,Samoa,0,0,14,34,1
+2017-11-25,Romania,Tonga,0,0,1,-5,-1
+2017-11-25,Italy,South Africa,0,0,-8,-29,-1
+2017-12-02,Wales,South Africa,0,0,-2,2,1
+2018-01-28,Canada,Uruguay,0,0,-3,-9,-1
+2018-02-03,France,Ireland,0,0,-6,-2,-1
+2018-02-03,Wales,Scotland,0,0,-2,27,1
+2018-02-04,Italy,England,0,0,-12,-31,-1
+2018-02-10,Portugal,Netherlands,0,0,4,24,1
+2018-02-10,Georgia,Belgium,0,0,17,47,1
+2018-02-10,Ireland,Italy,0,0,11,37,1
+2018-02-10,England,Wales,0,0,4,6,1
+2018-02-11,Scotland,France,0,0,3,6,1
+2018-02-17,USA,Chile,0,0,8,32,1
+2018-02-18,Spain,Romania,0,0,-4,12,1
+2018-02-23,France,Italy,0,0,4,17,1
+2018-02-24,Ireland,Wales,0,0,3,10,1
+2018-02-24,Scotland,England,0,0,-5,12,1
+2018-02-24,Chile,Uruguay,0,0,-8,-52,-1
+2018-03-03,Uruguay,USA,0,0,1,-42,-1
+2018-03-03,Georgia,Spain,0,0,7,13,1
+2018-03-03,Romania,Russia,0,0,4,10,1
+2018-03-03,Chile,Canada,0,0,-5,-16,-1
+2018-03-10,Russia,Georgia,0,0,-8,-20,-1
+2018-03-10,Ireland,Scotland,0,0,2,20,1
+2018-03-10,Romania,Belgium,0,0,8,50,1
+2018-03-10,France,England,0,0,-8,6,1
+2018-03-11,Wales,Italy,0,0,7,24,1
+2018-03-17,Italy,Scotland,0,0,-8,-2,-1
+2018-03-17,Wales,France,0,0,1,1,1
+2018-03-17,England,Ireland,0,0,-1,-9,-1
+2018-03-18,Georgia,Romania,0,0,5,9,1
+2018-06-02,South Africa,Wales,1,0,1,-2,-1
+2018-06-09,Australia,Ireland,0,0,-2,9,1
+2018-06-09,Argentina,Wales,0,0,-4,-13,-1
+2018-06-09,South Africa,England,0,0,-4,3,1
+2018-06-09,Fiji,Samoa,0,0,6,2,1
+2018-06-09,New Zealand,France,0,0,7,41,1
+2018-06-09,Tonga,Georgia,0,0,-1,-1,-1
+2018-06-16,Tonga,Samoa,0,0,3,10,1
+2018-06-16,Australia,Ireland,0,0,-1,-5,-1
+2018-06-16,New Zealand,France,0,0,7,13,1
+2018-06-16,Argentina,Wales,0,0,-5,-18,-1
+2018-06-16,South Africa,England,0,0,-3,11,1
+2018-06-16,Fiji,Georgia,0,0,3,22,1
+2018-06-23,Australia,Ireland,0,0,-2,-4,-1
+2018-06-23,Argentina,Scotland,0,0,-3,-29,-1
+2018-06-23,Japan,Georgia,0,0,1,28,1
+2018-06-23,South Africa,England,0,0,1,-15,-1
+2018-06-23,New Zealand,France,0,0,7,35,1
+2018-08-18,South Africa,Argentina,0,0,4,13,1
+2018-08-18,Australia,New Zealand,0,0,-4,-25,-1
+2018-08-25,New Zealand,Australia,0,0,4,28,1
+2018-08-25,Argentina,South Africa,0,0,-4,13,1
+2018-09-08,New Zealand,Argentina,0,0,8,22,1
+2018-09-08,Australia,South Africa,0,0,2,5,1
+2018-09-15,New Zealand,South Africa,0,0,6,-2,-1
+2018-09-15,Australia,Argentina,0,0,4,-4,-1
+2018-09-29,Argentina,New Zealand,0,0,-8,-18,-1
+2018-09-29,South Africa,Australia,0,0,2,11,1
+2018-10-06,Uruguay,Canada,0,0,5,14,1
+2018-10-06,South Africa,New Zealand,0,0,-4,-2,-1
+2018-10-06,Argentina,Australia,0,0,-2,-11,-1
+2018-10-27,New Zealand,Australia,1,0,6,17,1
+2018-11-03,Wales,Scotland,0,0,3,11,1
+2018-11-03,Japan,New Zealand,0,0,-10,-38,-1
+2018-11-03,Ireland,Italy,1,0,12,47,1
+2018-11-03,England,South Africa,0,0,1,1,1
+2018-11-10,England,New Zealand,0,0,-3,-1,-1
+2018-11-10,Ireland,Argentina,0,0,7,11,1
+2018-11-10,France,South Africa,0,0,-3,-3,-1
+2018-11-10,Samoa,USA,0,0,-1,-1,-1
+2018-11-10,Scotland,Fiji,0,0,3,37,1
+2018-11-10,Romania,Portugal,0,0,7,30,1
+2018-11-10,Wales,Australia,0,0,3,3,1
+2018-11-17,France,Argentina,0,0,1,15,1
+2018-11-17,Italy,Australia,0,0,-6,-19,-1
+2018-11-17,Scotland,South Africa,0,0,-1,-6,-1
+2018-11-17,Georgia,Samoa,0,0,3,8,1
+2018-11-17,Chile,New Zealand,0,0,-29,-73,-1
+2018-11-17,Fiji,Uruguay,0,0,8,61,1
+2018-11-17,England,Japan,0,0,7,20,1
+2018-11-17,Wales,Tonga,0,0,9,50,1
+2018-11-17,Spain,Namibia,0,0,2,21,1
+2018-11-17,Romania,USA,0,0,-1,-26,-1
+2018-11-17,Ireland,New Zealand,0,0,-1,7,1
+2018-11-24,Georgia,Tonga,0,0,-3,11,1
+2018-11-24,Wales,South Africa,0,0,2,9,1
+2018-11-24,Italy,New Zealand,0,0,-13,-63,-1
+2018-11-24,Romania,Uruguay,0,0,1,-7,-1
+2018-11-24,Spain,Samoa,0,0,-4,-18,-1
+2018-11-24,Russia,Japan,0,0,-8,-5,-1
+2018-11-24,France,Fiji,0,0,2,-7,-1
+2018-11-24,Scotland,Argentina,0,0,2,5,1
+2018-11-24,England,Australia,0,0,2,19,1
+2019-02-01,France,Wales,0,0,-6,-5,-1
+2019-02-02,Chile,USA,0,0,-17,-63,-1
+2019-02-02,Scotland,Italy,0,0,8,13,1
+2019-02-02,Ireland,England,0,0,2,-12,-1
+2019-02-03,Uruguay,Canada,0,0,3,3,1
+2019-02-08,Uruguay,Chile,0,0,12,15,1
+2019-02-09,Scotland,Ireland,0,0,-5,-9,-1
+2019-02-09,Italy,Wales,0,0,-11,-11,-1
+2019-02-09,Romania,Georgia,0,0,-5,-9,-1
+2019-02-10,England,France,0,0,7,36,1
+2019-02-17,Georgia,Spain,0,0,8,14,1
+2019-02-23,Canada,Chile,0,0,8,56,1
+2019-02-23,France,Scotland,0,0,-3,17,1
+2019-02-23,Wales,England,0,0,-1,8,1
+2019-02-24,Italy,Ireland,0,0,-13,-10,-1
+2019-03-02,Belgium,Georgia,0,0,-11,-40,-1
+2019-03-03,Spain,Romania,0,0,-2,3,1
+2019-03-03,USA,Uruguay,0,0,4,-7,-1
+2019-03-09,Scotland,Wales,0,0,-4,-7,-1
+2019-03-09,Netherlands,Portugal,0,0,3,-13,-1
+2019-03-09,England,Italy,0,0,10,43,1
+2019-03-09,Romania,Russia,0,0,-2,2,1
+2019-03-10,Ireland,France,0,0,6,12,1
+2019-03-16,England,Scotland,0,0,3,0,0
+2019-03-16,Italy,France,0,0,-6,-11,-1
+2019-03-16,Wales,Ireland,0,0,-1,18,1
+2019-03-17,Russia,Georgia,0,0,-8,-16,-1
+2019-03-17,Belgium,Romania,0,0,-7,-26,-1
+2019-06-04,Uruguay,Russia,0,0,4,22,1
+2019-06-09,Uruguay,Namibia,0,0,7,-2,-1
+2019-06-15,Namibia,Russia,0,0,-1,-20,-1
+2019-07-20,Argentina,New Zealand,0,0,-9,-4,-1
+2019-07-20,South Africa,Australia,0,0,1,18,1
+2019-07-27,New Zealand,South Africa,0,0,4,0,0
+2019-07-27,Tonga,Samoa,0,0,3,-8,-1
+2019-07-27,Fiji,Japan,0,0,2,-13,-1
+2019-07-27,Australia,Argentina,0,0,4,6,1
+2019-08-03,USA,Samoa,0,0,1,3,1
+2019-08-03,Tonga,Japan,0,0,-3,-34,-1
+2019-08-03,Fiji,Canada,0,0,12,25,1
+2019-08-09,Tonga,Canada,0,0,6,10,1
+2019-08-10,Australia,New Zealand,0,0,-5,21,1
+2019-08-10,Fiji,Samoa,0,0,7,7,1
+2019-08-10,USA,Japan,0,0,-2,-14,-1
+2019-08-10,Ireland,Italy,0,0,11,19,1
+2019-08-10,Argentina,South Africa,0,0,-6,-33,-1
+2019-08-11,England,Wales,0,0,-3,14,1
+2019-08-17,New Zealand,Australia,0,0,5,36,1
+2019-08-17,Wales,England,0,0,2,7,1
+2019-08-17,France,Scotland,0,0,-1,29,1
+2019-08-17,South Africa,Argentina,0,0,6,6,1
+2019-08-24,England,Ireland,0,0,-2,42,1
+2019-08-24,Scotland,France,0,0,-1,3,1
+2019-08-30,France,Italy,0,0,5,28,1
+2019-08-31,Wales,Ireland,0,0,3,-5,-1
+2019-09-06,England,Italy,0,0,10,37,1
+2019-09-07,Ireland,Wales,0,0,2,9,1
+2019-09-20,Japan,Russia,0,1,10,20,1
+2019-09-21,Australia,Fiji,1,1,3,18,1
+2019-09-21,France,Argentina,1,1,3,2,1
+2019-09-21,New Zealand,South Africa,1,1,2,10,1
+2019-09-22,England,Tonga,1,1,12,32,1
+2019-09-22,Ireland,Scotland,1,1,6,24,1
+2019-09-23,Wales,Georgia,1,1,8,29,1
+2019-09-24,Russia,Samoa,1,1,-4,-25,-1
+2019-09-25,Fiji,Uruguay,1,1,9,-3,-1
+2019-09-28,Japan,Ireland,0,1,-7,7,1
+2019-09-28,South Africa,Namibia,1,1,18,54,1
+2019-09-28,Argentina,Tonga,1,1,4,16,1
+2019-09-29,Australia,Wales,1,1,-2,-4,-1
+2019-09-29,Georgia,Uruguay,1,1,7,26,1
+2019-09-30,Scotland,Samoa,1,1,6,34,1
+2019-10-03,Georgia,Fiji,1,1,1,-35,-1
+2019-10-04,South Africa,Italy,1,1,9,46,1
+2019-10-05,Japan,Samoa,0,1,7,19,1
+2019-10-05,England,Argentina,1,1,7,29,1
+2019-10-05,Australia,Uruguay,1,1,12,35,1
+2019-10-06,New Zealand,Namibia,1,1,22,62,1
+2019-10-06,France,Tonga,1,1,9,2,1
+2019-10-09,Wales,Fiji,1,1,9,12,1
+2019-10-11,Australia,Georgia,1,1,8,19,1
+2019-10-12,Ireland,Samoa,1,1,11,42,1
+2019-10-13,USA,Tonga,1,1,3,-12,-1
+2019-10-13,Japan,Scotland,0,1,1,7,1
+2019-10-13,Wales,Uruguay,1,1,16,22,1
+2019-10-19,England,Australia,1,1,3,24,1
+2019-10-19,New Zealand,Ireland,1,1,3,32,1
+2019-10-20,Japan,South Africa,0,1,-2,-23,-1
+2019-10-20,Wales,France,1,1,6,1,1
+2019-10-26,England,New Zealand,1,1,-1,12,1
+2019-10-27,Wales,South Africa,1,1,1,-3,-1
+2019-11-01,New Zealand,Wales,1,1,1,23,1
+2019-11-02,England,South Africa,1,1,1,-20,-1
+2020-02-01,Wales,Italy,0,0,8,42,1
+2020-02-01,Georgia,Romania,0,0,5,28,1
+2020-02-01,Portugal,Belgium,0,0,3,6,1
+2020-02-01,Ireland,Scotland,0,0,4,7,1
+2020-02-02,France,England,0,0,-4,7,1
+2020-02-08,Scotland,England,0,0,-6,-7,-1
+2020-02-08,Ireland,Wales,0,0,-1,10,1
+2020-02-08,Portugal,Romania,0,0,-3,11,1
+2020-02-09,France,Italy,0,0,6,13,1
+2020-02-09,Spain,Georgia,0,0,-3,-13,-1
+2020-02-22,Georgia,Belgium,0,0,15,72,1
+2020-02-22,Romania,Spain,0,0,-3,17,1
+2020-02-22,Wales,France,0,0,1,-4,-1
+2020-02-22,Russia,Portugal,0,0,-5,1,1
+2020-02-22,Italy,Scotland,0,0,-4,-17,-1
+2020-02-23,England,Ireland,0,0,1,12,1
+2020-03-07,Russia,Romania,0,0,-5,7,1
+2020-03-07,Portugal,Georgia,0,0,-8,-15,-1
+2020-03-07,England,Wales,0,0,3,3,1
+2020-03-08,Scotland,France,0,0,-3,11,1
+2020-10-11,New Zealand,Australia,0,0,5,0,0
+2020-10-18,New Zealand,Australia,0,0,3,20,1
+2020-10-21,Uruguay,Chile,0,0,12,-1,-1
+2020-10-23,Scotland,Georgia,0,0,4,41,1
+2020-10-24,Ireland,Italy,0,0,10,33,1
+2020-10-24,France,Wales,0,0,1,17,1
+2020-10-31,Wales,Scotland,0,0,1,-4,-1
+2020-10-31,France,Ireland,0,0,-1,8,1
+2020-10-31,Italy,England,0,0,-11,-29,-1
+2020-10-31,Australia,New Zealand,0,0,-4,-38,-1
+2020-11-06,Uruguay,Spain,0,0,-2,9,1
+2020-11-07,Australia,New Zealand,0,0,-4,2,1
+2020-11-13,Ireland,Wales,0,0,3,23,1
+2020-11-14,New Zealand,Argentina,1,0,8,-10,-1
+2020-11-14,Italy,Scotland,0,0,-7,-11,-1
+2020-11-14,England,Georgia,0,0,9,40,1
+2020-11-15,France,Fiji,0,0,7,28,1
+2020-11-21,England,Ireland,0,0,3,11,1
+2020-11-21,Wales,Georgia,0,0,3,18,1
+2020-11-21,Australia,Argentina,0,0,2,0,0
+2020-11-22,Scotland,France,0,0,-3,-7,-1
+2020-11-28,France,Italy,0,0,10,31,1
+2020-11-28,Argentina,New Zealand,1,0,-5,-38,-1
+2020-11-28,Wales,England,0,0,-7,-11,-1
+2020-11-28,Scotland,Fiji,0,0,4,28,1
+2020-11-29,Ireland,Georgia,0,0,7,13,1
+2020-12-05,Ireland,Scotland,0,0,2,15,1
+2020-12-05,Georgia,Fiji,0,0,-1,-14,-1
+2020-12-05,Australia,Argentina,0,0,2,0,0
+2020-12-05,Wales,Italy,0,0,5,20,1
+2020-12-06,England,France,0,0,2,3,1
+2021-02-06,England,Scotland,0,0,5,-5,-1
+2021-02-06,Italy,France,0,0,-10,-40,-1
+2021-02-07,Wales,Ireland,0,0,-4,5,1
+2021-02-07,Spain,Portugal,0,0,3,14,1
+2021-02-07,Georgia,Russia,0,0,9,9,1
+2021-02-07,Romania,Belgium,0,0,8,28,1
+2021-02-13,Scotland,Wales,0,0,1,-1,-1
+2021-02-13,England,Italy,0,0,11,23,1
+2021-02-14,Ireland,France,0,0,-1,-2,-1
+2021-02-27,Italy,Ireland,0,0,-8,-38,-1
+2021-02-27,Wales,England,0,0,-4,16,1
+2021-03-06,Portugal,Georgia,0,0,-8,-13,-1
+2021-03-06,Russia,Romania,0,0,-2,5,1
+2021-03-13,Italy,Wales,0,0,-10,-41,-1
+2021-03-13,England,France,0,0,-1,3,1
+2021-03-13,Portugal,Romania,0,0,-2,-1,-1
+2021-03-14,Scotland,Ireland,0,0,-1,-3,-1
+2021-03-14,Spain,Georgia,0,0,-5,-6,-1
+2021-03-20,Scotland,Italy,0,0,6,42,1
+2021-03-20,Russia,Georgia,0,0,-8,-17,-1
+2021-03-20,Romania,Spain,0,0,-1,6,1
+2021-03-20,Ireland,England,0,0,-3,14,1
+2021-03-20,France,Wales,0,0,1,2,1
+2021-03-26,France,Scotland,0,0,6,-4,-1
+2021-03-27,Portugal,Spain,0,0,-5,15,1
+2021-03-28,Georgia,Romania,0,0,6,11,1
+2021-06-26,Georgia,Netherlands,0,0,12,33,1
+2021-07-02,South Africa,Georgia,0,0,11,31,1
+2021-07-03,New Zealand,Tonga,0,0,11,102,1
+2021-07-03,Romania,Argentina,0,0,-9,-7,-1
+2021-07-03,Ireland,Japan,0,0,6,8,1
+2021-07-07,Australia,France,0,0,-2,2,1
+2021-07-10,Wales,Argentina,0,0,3,0,0
+2021-07-10,Samoa,Tonga,0,0,-1,29,1
+2021-07-10,Netherlands,Portugal,0,0,-3,-33,-1
+2021-07-10,New Zealand,Fiji,0,0,9,34,1
+2021-07-13,Australia,France,0,0,1,-2,-1
+2021-07-17,Wales,Argentina,0,0,2,22,1
+2021-07-17,Australia,France,0,0,1,3,1
+2021-07-17,Russia,Portugal,0,0,-1,-23,-1
+2021-07-17,New Zealand,Fiji,0,0,9,47,1
+2021-08-07,New Zealand,Australia,0,0,4,8,1
+2021-08-14,South Africa,Argentina,0,0,6,20,1
+2021-08-14,New Zealand,Australia,0,0,4,35,1
+2021-08-21,South Africa,Argentina,0,0,5,19,1
+2021-09-05,Australia,New Zealand,0,0,-4,-17,-1
+2021-09-11,Australia,South Africa,0,0,-6,2,1
+2021-09-11,Argentina,New Zealand,1,0,-4,-39,-1
+2021-09-18,New Zealand,Argentina,1,0,5,23,1
+2021-09-18,Australia,South Africa,0,0,-4,13,1
+2021-09-25,Australia,Argentina,0,0,4,19,1
+2021-09-25,New Zealand,South Africa,1,0,1,2,1
+2021-10-02,Australia,Argentina,0,0,5,15,1
+2021-10-02,New Zealand,South Africa,1,0,1,-2,-1
+2021-10-23,Japan,Australia,0,0,-7,-9,-1
+2021-10-30,Wales,New Zealand,0,0,-7,-38,-1
+2021-10-30,Scotland,Tonga,0,0,8,46,1
+2021-11-05,France,Argentina,0,0,2,9,1
+2021-11-06,Ireland,Japan,0,0,5,55,1
+2021-11-06,Spain,Fiji,0,0,-9,-30,-1
+2021-11-06,Portugal,Canada,0,0,4,3,1
+2021-11-06,Scotland,Australia,0,0,-4,2,1
+2021-11-06,Wales,South Africa,0,0,-7,-5,-1
+2021-11-06,England,Tonga,0,0,11,66,1
+2021-11-06,Italy,New Zealand,0,0,-13,-38,-1
+2021-11-07,Romania,Uruguay,0,0,-2,15,1
+2021-11-13,Italy,Argentina,0,0,-6,-21,-1
+2021-11-13,Scotland,South Africa,0,0,-5,-15,-1
+2021-11-13,England,Australia,0,0,-1,17,1
+2021-11-13,Romania,Netherlands,0,0,9,41,1
+2021-11-13,Portugal,Japan,0,0,-9,-13,-1
+2021-11-13,Ireland,New Zealand,0,0,-4,9,1
+2021-11-14,Wales,Fiji,0,0,2,15,1
+2021-11-14,France,Georgia,0,0,6,26,1
+2021-11-20,England,South Africa,0,0,-2,1,1
+2021-11-20,France,New Zealand,0,0,-4,15,1
+2021-11-20,Scotland,Japan,0,0,3,9,1
+2021-11-20,Romania,Tonga,0,0,-1,12,1
+2021-11-20,Georgia,Fiji,0,0,-1,0,0
+2021-11-20,Russia,Chile,0,0,5,-1,-1
+2021-11-20,Wales,Australia,0,0,-4,1,1
+2021-11-21,Ireland,Argentina,0,0,4,46,1
+2021-11-26,Russia,Chile,0,0,2,-15,-1
+2022-02-05,Scotland,England,0,0,-4,3,1
+2022-02-05,Romania,Russia,0,0,10,9,1
+2022-02-05,Ireland,Wales,0,0,4,22,1
+2022-02-06,Georgia,Portugal,0,0,8,0,0
+2022-02-07,France,Italy,0,0,9,27,1
+2022-02-12,Wales,Scotland,0,0,-2,3,1
+2022-02-12,Netherlands,Georgia,0,0,-13,-62,-1
+2022-02-12,France,Ireland,0,0,-2,6,1
+2022-02-12,Romania,Portugal,0,0,2,10,1
+2022-02-13,Italy,England,0,0,-10,-33,-1
+2022-02-26,Scotland,France,0,0,-3,-19,-1
+2022-02-26,England,Wales,0,0,5,4,1
+2022-02-26,Portugal,Netherlands,0,0,6,56,1
+2022-02-27,Spain,Romania,0,0,-2,17,1
+2022-02-27,Georgia,Russia,0,0,12,,-1
+2022-02-28,Ireland,Italy,0,0,9,51,1
+2022-03-11,Wales,France,0,0,-4,-4,-1
+2022-03-12,Italy,Scotland,0,0,-6,-11,-1
+2022-03-12,England,Ireland,0,0,1,-17,-1
+2022-03-12,Romania,Georgia,0,0,-4,-3,-1
+2022-03-13,Spain,Portugal,0,0,5,5,1
+2022-03-19,Netherlands,Romania,0,0,-8,-26,-1
+2022-03-19,Portugal,Russia,0,0,5,,-1
+2022-03-19,Wales,Italy,0,0,6,-1,-1
+2022-03-19,Ireland,Scotland,0,0,3,21,1
+2022-03-20,Georgia,Spain,0,0,2,34,1
+2022-03-20,France,England,0,0,2,12,1
+2022-06-18,Japan,Uruguay,0,0,9,19,1
+2022-06-25,Chile,Scotland,0,0,-16,-40,-1
+2022-06-25,Japan,Uruguay,0,0,9,36,1
+2022-06-25,New Zealand,Tonga,0,0,13,,-1
+2022-07-02,Japan,France,0,0,-8,-19,-1
+2022-07-02,New Zealand,Ireland,0,0,1,23,1
+2022-07-02,South Africa,Wales,0,0,8,3,1
+2022-07-02,Australia,England,0,0,-1,2,1
+2022-07-02,Fiji,Tonga,0,0,5,36,1
+2022-07-02,Argentina,Scotland,0,0,-1,8,1
+2022-07-09,Chile,USA,0,0,-6,-1,-1
+2022-07-09,Japan,France,0,0,-7,-5,-1
+2022-07-09,Samoa,Tonga,0,0,2,16,1
+2022-07-09,Argentina,Scotland,0,0,1,-23,-1
+2022-07-09,New Zealand,Ireland,0,0,2,-11,-1
+2022-07-09,Australia,England,0,0,1,-8,-1
+2022-07-09,South Africa,Wales,0,0,8,-1,-1
+2022-07-10,Uruguay,Romania,0,0,1,-8,-1
+2022-07-16,Georgia,Portugal,0,0,7,9,1
+2022-07-16,New Zealand,Ireland,0,0,-2,-10,-1
+2022-07-16,South Africa,Wales,0,0,5,16,1
+2022-07-16,Argentina,Scotland,0,0,-2,3,1
+2022-07-16,Fiji,Samoa,0,0,2,-3,-1
+2022-07-16,USA,Chile,0,0,7,-2,-1
+2022-07-16,Australia,England,0,0,-1,-4,-1
+2022-07-17,Uruguay,Romania,0,0,-4,6,1
+2022-08-06,South Africa,New Zealand,0,0,1,16,1
+2022-08-06,Argentina,Australia,0,0,-3,-15,-1
+2022-08-13,Argentina,Australia,0,0,-3,31,1
+2022-08-13,South Africa,New Zealand,0,0,2,-12,-1
+2022-08-27,New Zealand,Argentina,0,0,5,-7,-1
+2022-08-27,Australia,South Africa,0,0,-4,8,1
+2022-09-03,Australia,South Africa,0,0,-3,-16,-1
+2022-09-03,New Zealand,Argentina,0,0,2,50,1
+2022-09-15,Australia,New Zealand,0,0,-4,-2,-1
+2022-09-17,Argentina,South Africa,0,0,-3,-16,-1
+2022-09-24,New Zealand,Australia,0,0,5,26,1
+2022-09-24,South Africa,Argentina,0,0,5,17,1
+2022-10-24,Japan,Argentina,0,0,-2,,-1
+2022-10-29,Scotland,Australia,0,0,3,-1,-1
+2022-10-29,Japan,New Zealand,0,0,-6,-7,-1
+2022-11-05,Spain,Tonga,0,0,1,-34,-1
+2022-11-05,Wales,New Zealand,0,0,-3,-32,-1
+2022-11-05,Ireland,South Africa,0,0,2,3,1
+2022-11-05,France,Australia,0,0,4,1,1
+2022-11-05,Scotland,Fiji,0,0,3,16,1
+2022-11-05,Romania,Chile,0,0,4,7,1
+2022-11-06,Georgia,Uruguay,0,0,5,16,1
+2022-11-06,England,Argentina,0,0,3,-1,-1
+2022-11-12,Ireland,Fiji,0,0,10,18,1
+2022-11-12,Spain,Namibia,0,0,7,19,1
+2022-11-12,Italy,Australia,0,0,-5,1,1
+2022-11-12,Wales,Argentina,0,0,-3,7,1
+2022-11-12,England,Japan,0,0,5,39,1
+2022-11-12,France,South Africa,0,0,2,4,1
+2022-11-12,Georgia,Samoa,0,0,1,-1,-1
+2022-11-12,Tonga,Chile,0,0,6,29,1
+2022-11-13,Romania,Uruguay,0,0,2,-5,-1
+2022-11-13,Scotland,New Zealand,0,0,-5,-8,-1
+2022-11-19,Wales,Georgia,0,0,7,-1,-1
+2022-11-19,Canada,Namibia,0,0,2,-6,-1
+2022-11-19,Romania,Samoa,0,0,-8,-22,-1
+2022-11-19,England,New Zealand,0,0,-2,0,0
+2022-11-19,Ireland,Australia,0,0,7,3,1
+2022-11-19,Italy,South Africa,0,0,-7,-42,-1
+2022-11-19,Tonga,Uruguay,0,0,1,24,1
+2022-11-20,France,Japan,0,0,8,18,1
+2022-11-26,England,South Africa,0,0,-1,-14,-1
+2022-11-26,Wales,Australia,0,0,-1,-5,-1
+2023-02-04,England,Scotland,0,0,2,-6,-1
+2023-02-04,Wales,Ireland,0,0,-8,-24,-1
+2023-02-05,Italy,France,0,0,-10,-5,-1
+2023-02-11,Scotland,Wales,0,0,4,28,1
+2023-02-11,Ireland,France,0,0,1,13,1
+2023-02-12,England,Italy,0,0,6,17,1
+2023-02-25,Wales,England,0,0,-3,-10,-1
+2023-02-25,Italy,Ireland,0,0,-12,-14,-1
+2023-02-26,France,Scotland,0,0,3,11,1
+2023-03-11,England,France,0,0,-4,-43,-1
+2023-03-11,Italy,Wales,0,0,-3,-12,-1
+2023-03-12,Scotland,Ireland,0,0,-4,-15,-1
+2023-03-18,France,Wales,0,0,7,13,1
+2023-03-18,Scotland,Italy,0,0,9,12,1
+2023-03-18,Ireland,England,0,0,5,13,1
+2023-07-08,South Africa,Australia,0,0,3,31,1
+2023-07-08,Argentina,New Zealand,0,0,-5,-29,-1
+2023-07-15,New Zealand,South Africa,0,0,1,15,1
+2023-07-15,Australia,Argentina,0,0,1,-3,-1
+2023-07-22,Japan,Samoa,0,0,2,-2,-1
+2023-07-22,Fiji,Tonga,0,0,2,16,1
+2023-07-29,Samoa,Fiji,0,0,3,-14,-1
+2023-07-29,Australia,New Zealand,0,0,-5,-31,-1
+2023-07-29,Japan,Tonga,0,0,3,5,1
+2023-07-29,Scotland,Italy,0,0,9,12,1
+2023-07-29,South Africa,Argentina,0,0,3,1,1
+2023-07-29,Uruguay,Chile,0,0,5,1,1
+2023-08-05,Samoa,Tonga,0,0,2,25,1
+2023-08-05,New Zealand,Australia,0,0,6,3,1
+2023-08-05,Japan,Fiji,0,0,-2,-23,-1
+2023-08-05,Scotland,France,0,0,-2,4,1
+2023-08-05,Wales,England,0,0,-3,11,1
+2023-08-05,Ireland,Italy,0,0,13,16,1
+2023-08-05,Argentina,South Africa,0,0,-3,-11,-1
+2023-08-05,Romania,USA,0,0,-1,-14,-1
+2023-08-05,Uruguay,Namibia,0,0,4,8,1
+2023-08-12,Georgia,Romania,0,0,8,0,0
+2023-08-12,England,Wales,0,0,3,0,0
+2023-08-12,France,Scotland,0,0,3,0,0
+2023-08-12,Portugal,USA,0,0,1,0,0
+2023-08-12,Chile,Namibia,0,0,-1,0,0
+2023-08-15,Tonga,Canada,0,0,8,0,0
